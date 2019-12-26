@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
-    - Kids code club: "http://http://kidscodeclub.jp/"
+    - Kids code club: "http://kidscodeclub.jp/"
   Contact US: "contact@sijp.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
