@@ -20,8 +20,11 @@ order to keep the kids as in-sync as possible. The goal of the
 workshop is to show that kids around the world can overcome the
 distance between them by having fun learning CS together.
 
-[A Youtube channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw) has all the relevant videos.
+[A Youtube
+channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw) has
+all the relevant videos.
 
+[![](http://img.youtube.com/vi/MyIARnSaYX8/0.jpg)](http://www.youtube.com/watch?v=MyIARnSaYX8 "")
 
 # Media
 
@@ -29,4 +32,5 @@ distance between them by having fun learning CS together.
     - [PR Times](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
     - [Hour of Code JP](http://hourofcode.jp/)
     - [Junglecity](https://www.junglecity.com/kids/kids-learn/sijp-offers-english-computer-science-classes/)
+    - [Junglecity Essays](https://www.junglecity.com/people/essay-stem-education/)
 - English
