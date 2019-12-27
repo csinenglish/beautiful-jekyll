@@ -25,7 +25,8 @@ distance between them by having fun learning CS together.
 
 # Media
 
-* Japanese
-- [PR Times](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
-* English
--  
+- Japanese
+    - [PR Times](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
+    - [Hour of Code JP](http://hourofcode.jp/)
+    - [Junglecity](https://www.junglecity.com/kids/kids-learn/sijp-offers-english-computer-science-classes/)
+- English
