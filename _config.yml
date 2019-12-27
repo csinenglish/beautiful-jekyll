@@ -20,7 +20,7 @@ description: Learn Computer Science in English
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About this project: "aboutme"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
     - Kids code club: "http://kidscodeclub.jp/"

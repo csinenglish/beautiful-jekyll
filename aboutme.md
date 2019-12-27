@@ -4,7 +4,7 @@ title: CS in English
 subtitle: About this project
 ---
 
-![](/img/Csinenglishlogo.jpg)
+![Tree Pose](/img/tree.jpg)
 
 Learning Computer Science in English (CS in English) is a free
 workshop that aims to teach - in English - the basics of computer
