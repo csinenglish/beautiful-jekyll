@@ -6,8 +6,7 @@ subtitle: About this project
 
 ![Tree Pose](/img/tree.jpg)
 
-Learning Computer Science in English ((CS in
-English)[https://sijp.org/category/event-report/]) is a free workshop
+Learning Computer Science in English ((CS in English)[https://sijp.org/category/event-report/]) is a free workshop
 that aims to teach - in English - the basics of computer science to
 kids in Japan (Fukuoka, Kumamoto) and the USA.
 
