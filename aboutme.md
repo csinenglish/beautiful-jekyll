@@ -25,6 +25,9 @@ distance between them by having fun learning CS together.
 channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw) has
 all the relevant videos.
 
+
+[![](/img/youtubelogo.png](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)
+
 [![](http://img.youtube.com/vi/MyIARnSaYX8/0.jpg)](http://www.youtube.com/watch?v=MyIARnSaYX8)
 
 # Media
