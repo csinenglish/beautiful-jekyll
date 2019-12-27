@@ -6,6 +6,8 @@ subtitle: About this project
 
 ![Tree Pose](/img/tree.jpg)
 
+![Kahoot](/img/201912Kahoot.jpg)
+
 Learning Computer Science in English (CS in English) is a free
 workshop that aims to teach - in English - the basics of computer
 science to kids in Japan (Fukuoka, Kumamoto) and the USA. Using modern
