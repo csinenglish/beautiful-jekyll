@@ -25,7 +25,7 @@ distance between them by having fun learning CS together.
 
 # Media
 
-- Japanese
--- [PR Times](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
-- English
--- 
+* Japanese
+- [PR Times](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
+* English
+-  
