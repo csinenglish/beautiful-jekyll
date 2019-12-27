@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: First Post!
+subtitle: a milion steps start with one
 gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [announce]
