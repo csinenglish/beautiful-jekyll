@@ -21,9 +21,6 @@ description: Learn Computer Science in English
 # List of links in the navigation bar
 navbar-links:
   About this project: "aboutme"
-  Calendar: "http://sijp.org"
-  Recipe:
-    - "Binary Number Systems: "http://sijp.org"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
     - Kids code club: "http://kidscodeclub.jp/"
