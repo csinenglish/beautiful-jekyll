@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: CS in English - learn it by heart
+title: This is "CS in English" 
 
 # Short description of your site
 description: Learn Computer Science in English
@@ -23,7 +23,8 @@ navbar-links:
   About this project:
       - Overview: "aboutme"
       - Teachers: "teachers"
-      - Location: "location"
+      - Locations: "location"
+      - Recipes: "recipes"
       - Tools: "tools"
       - Media: "media"
       - Supporters: "supporters"
