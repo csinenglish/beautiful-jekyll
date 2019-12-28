@@ -23,6 +23,7 @@ navbar-links:
   About this project:
       - Overview: "aboutme"
       - Teachers: "teachers"
+      - Location: "location"
       - Tools: "tools"
       - Media: "media"
   Calendar: "cal"
