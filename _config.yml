@@ -28,7 +28,14 @@ navbar-links:
       - Media: "media"
       - Supporters: "supporters"
   Calendar: "cal"
-  Recipes: "recipes"
+  Recipes:
+    - Binary Number System: "binary"
+    - Computer Logic: "logic"
+    - Search Algorithms: "search"
+    - Sort Algorithms: "sort"
+    - Debug: "debug"
+    - Tree: "tree"
+    - Hour of code Dance: "dance"
   Partners:
     - Seattle IT Japanese Professionals: "http://sijp.org"
     - Kids code club: "http://kidscodeclub.jp/"
