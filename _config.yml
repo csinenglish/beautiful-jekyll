@@ -26,6 +26,7 @@ navbar-links:
       - Location: "location"
       - Tools: "tools"
       - Media: "media"
+      - Supporters: "supporters"
   Calendar: "cal"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"

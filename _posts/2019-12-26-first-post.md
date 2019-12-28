@@ -8,4 +8,5 @@ tags: [announce]
 comments: true
 ---
 
-TThis will be home for all CS in English project. Stay tuned for update.
+We will be launching this site in 2020. Please give us feedback via
+contact@sijp.org.
