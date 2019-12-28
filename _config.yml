@@ -28,6 +28,10 @@ navbar-links:
       - Media: "media"
       - Supporters: "supporters"
   Calendar: "cal"
+  Tracks:
+    - CS in Engilsh Weekends: "weekends"
+    - CS in Engilsh in the Schools: "schools"
+    - CS in Engilsh Live: "live"
   Recipes:
     - Binary Number System: "binary"
     - Computer Logic: "logic"
