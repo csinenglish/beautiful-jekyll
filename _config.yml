@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: CS in English 
+title: CS in English - learn it by heart
 
 # Short description of your site
 description: Learn Computer Science in English
@@ -21,6 +21,7 @@ description: Learn Computer Science in English
 # List of links in the navigation bar
 navbar-links:
   About this project: "aboutme"
+  Calendar: "cal"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
     - Kids code club: "http://kidscodeclub.jp/"
