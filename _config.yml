@@ -20,7 +20,8 @@ description: Learn Computer Science in English
 
 # List of links in the navigation bar
 navbar-links:
-  About this project: "aboutme"
+  About this project:
+      - Overview: "aboutme"
   Calendar: "cal"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
@@ -29,7 +30,7 @@ navbar-links:
     - Kumamoto National College of Technology : "https://kumamoto-nct.ac.jp/english-home/department/department-of-human-oriented-information-systems-engineering.html"
     - Kyushu Instutitute of Technology (Iizuka Campus) : "https://www.kyutech.ac.jp/english/about/map/iizuka.html"
     - Bellevue College : "https://www.bellevuecollege.edu/"
-  Home Page: "http://www.csinenglish.club"
+#  Teachers: "techers"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
