@@ -24,12 +24,12 @@ navbar-links:
       - Overview: "aboutme"
       - Teachers: "teachers"
       - Locations: "location"
-      - Recipes: "recipes"
       - Tools: "tools"
       - Media: "media"
       - Supporters: "supporters"
   Calendar: "cal"
-  Orgainzation:
+  Recipes: "recipes"
+  Partners:
     - Seattle IT Japanese Professionals: "http://sijp.org"
     - Kids code club: "http://kidscodeclub.jp/"
     - Kumamoto LR Net : "http://www.kumalr.net/"
