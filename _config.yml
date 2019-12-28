@@ -22,6 +22,9 @@ description: Learn Computer Science in English
 navbar-links:
   About this project:
       - Overview: "aboutme"
+      - Teachers: "teachers"
+      - Tools: "tools"
+      - Media: "media"
   Calendar: "cal"
   Orgainzation:
     - Seattle IT Japanese Professionals: "http://sijp.org"
