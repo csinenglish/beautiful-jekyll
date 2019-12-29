@@ -29,7 +29,8 @@ navbar-links:
       - Supporters: "supporters"
   Calendar: "cal"
   Tracks:
-    - CS in Engilsh Weekends: "weekends"
+    - CS in Engilsh Class: "class"
+    - CS in Engilsh Workshop: "workshop"
     - CS in Engilsh in the Schools: "schools"
     - CS in Engilsh Live: "live"
   Recipes:
