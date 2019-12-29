@@ -8,5 +8,6 @@ tags: [announce]
 comments: true
 ---
 
-We will be launching this site in 2020. Please give us feedback via
-contact@sijp.org.
+We will be launching this site in 2020. First, please check out
+[project overview](https://www.csinenglish.club/aboutme/). Please give
+us feedback via contact@sijp.org.
