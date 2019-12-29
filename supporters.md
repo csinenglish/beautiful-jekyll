@@ -20,6 +20,7 @@ subtitle: A list of supporters
 - [CoderDojo 福岡](https://www.facebook.com/CoderDojoFukuoka/)
 - [株式会社グローバルスマイルジャパン](https:.//https://globalsmile-japan.com/)
 - [株式会社ヴィネット](https://www.vinet.co.jp/)
+- [株式会社CLOUD-IA](https://www.facebook.com/CloudIA.JP/)
 - [飯塚市教育委員会](http://www.city.iizuka.lg.jp/kyoiku/kyoiku/inkai/index.html)
 
 
