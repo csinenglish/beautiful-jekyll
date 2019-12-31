@@ -39,7 +39,7 @@ navbar-links:
     - Search Algorithms: "search"
     - Sort Algorithms: "sort"
     - Debug: "debug"
-    - Tree: "tree"
+    - Tree Algorithm: "tree"
     - Hour of code Dance: "dance"
   Partners:
     - Seattle IT Japanese Professionals: "http://sijp.org"

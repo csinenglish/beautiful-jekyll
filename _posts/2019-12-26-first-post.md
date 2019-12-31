@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post!
+title: The First Post!
 subtitle: a milion steps start with one
 gh-repo: 
 gh-badge: [star, fork, follow]
