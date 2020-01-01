@@ -3,6 +3,25 @@ layout: page
 title: CS in English Event Report
 subtitle: Hour of Code 2019
 ---
+<!----- Conversion time: 3.525 seconds.
+
+
+Using this Markdown file:
+
+1. Cut and paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β17
+* Tue Dec 31 2019 22:36:36 GMT-0800 (PST)
+* Source doc: https://docs.google.com/a/sijp.org/open?id=1cussVRymemETDOjNfM8G563TWfgmWdISzKAjUG_BUBc
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
+----->
+
+
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
@@ -21,7 +40,7 @@ Hour of Code 2019 Event Report
  
 
 
-##
+## 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Event-Report0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -32,9 +51,9 @@ Hour of Code 2019 Event Report
 
 ## Introduction
 
-CS in English has been [teaching computer science](https://sijp.org/category/education/) to students in Seattle, as well as to students in Japan’s Kumamoto and Fukuoka prefectures through a teleconference system called [Zoom](https://zoom.us/). On Dec 7th, 2019 we held a class called “Hour of Code - Let’s dance” I hope everyone who was able to attend enjoyed it. This document is the report for those who missed the class. This was the 6th installment of our SIJP classes, and was the last one for 2019. This venue created a fun learning environment, all while engaging students effectively in order for them to learn coding skills. For this, we would like to say thank you on behalf of all of our staff of CS in English for all of the support throughout the classes.
+CS in English has been [teaching computer science](https://sijp.org/category/education/) to students in Seattle, as well as to students in Japan’s Kumamoto and Fukuoka prefectures through a teleconference system called [Zoom](https://zoom.us/). On Dec 7th, 2019 we held a class called “Hour of Code - Let’s dance” I hope everyone who was able to attend enjoyed it. This document is the report for those who missed the class. This was the 6th installment of our SIJP classes, and was the last one for 2019. This venue created a fun learning environment, all while engaging students effectively in order for them to learn coding skills. For this, we would like to say thank you on behalf of all of our staff of CS in English for all of the support throughout the classes. 
 
-The first week of December is called “Computer Education Week” due to [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)’s birthday being on December 6th. During this week, students all over the world study computer science, and at the same time, the event called “Hour of Code” is held to raise awareness for coding by providing a one-hour introduction to computer science for all ages of people.
+The first week of December is called “Computer Education Week” due to [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)’s birthday being on December 6th. During this week, students all over the world study computer science, and at the same time, the event called “Hour of Code” is held to raise awareness for coding by providing a one-hour introduction to computer science for all ages of people. 
 
 <iframe width="1029" height="643" src="https://www.youtube.com/embed/kn7NcbKUsDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -47,7 +66,7 @@ The hour of code this year was a phenomenal time to learn coding. Last year, Ken
 
 Students enjoyed the assembly thoroughly. They also made several impressive dance moves on the code.org platform.
 
-Kenji wanted to bring this atmosphere to Kumamoto and Fukuoka with the help of Internet.
+Kenji wanted to bring this atmosphere to Kumamoto and Fukuoka with the help of Internet. 
 
 [Kurume University](https://www.kurume-u.ac.jp/site/english/) in Fukuoka joined the class for the first time. Welcome!
 
@@ -56,7 +75,7 @@ Kenji wanted to bring this atmosphere to Kumamoto and Fukuoka with the help of I
 
 ## Assignments
 
-We prepared and assigned two assignments ahead of class as practice for the students.
+We prepared and assigned two assignments ahead of class as practice for the students. 
 
 
 ### Code.org Activity
@@ -87,7 +106,7 @@ First, we introduced “Events” and “Event-Driven Programs”. Please watch 
 
 <iframe width="1029" height="643" src="https://www.youtube.com/embed/fN0tre9ZvE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here are some examples of Event-Driven Programs:
+Here are some examples of Event-Driven Programs: 
 
 
 
@@ -98,17 +117,17 @@ Here are some examples of Event-Driven Programs:
 Now we are ready to dance! Let’s have some fun shall we?
 
 
-### Dancing
+### Dancing 
 
 We invited Yosuke from Kumamoto. He is a professional dancer. He started teaching the dance moves (the instructions can be found [here](https://curriculum.code.org/hoc/unplugged/4/)).
 
 First, he introduced six dances: Dabbing, High Claps, The Star, Body Rolls, the “This or That”, and the Floss. You can also learn these dances from this [slideshow](https://docs.google.com/presentation/d/1Guau5AeuqQCcPz06bfhtTmgt_ykaxKZ_JzkhzcECOcQ/edit#slide=id.g441e51501a_0_20).
 
-It looked like the most difficult dance was the Floss. Here is a video about the Floss dance for beginners:
+It looked like the most difficult dance was the Floss. Here is a video about the Floss dance for beginners: 
 
 <iframe width="1143" height="643" src="https://www.youtube.com/embed/ru1ZZhxLX2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A lot of kids in U.S. seemed to know about the Floss dance prior to this event, which was a surprise to us and our Japanese audience.
+A lot of kids in U.S. seemed to know about the Floss dance prior to this event, which was a surprise to us and our Japanese audience. 
 
 Each dance had its own color associated to it, which is important in the next step, the Control Panel.
 
@@ -134,7 +153,7 @@ After the dancing we had small break. In Seattle, we had very tasty sandwiches f
 
 ## Code.org Activity
 
-After we learned about dance moves, we started a coding program in which the students had to get characters to dance; this was done through code.org. We were so amazed that the kids were able to complete the task without much of our help (Allowing us to have a long break after that dancing workout). [Lesson 13](https://studio.code.org/s/dance/stage/1/puzzle/13) is a section where [students can share their dance moves with others using the “Share” button](https://youtu.be/pIxdBhJb8lc?t=73). We asked kids to share the link to Seesaw so that others can look at them. Here is the [activity](https://app.seesaw.me/pages/shared_activity?share_token=dm6Y3-KrQayQZ9vkeYSdPg&prompt_id=prompt.a258ccd4-1234-401c-bf5e-9cdde6c39067) for that.
+After we learned about dance moves, we started a coding program in which the students had to get characters to dance; this was done through code.org. We were so amazed that the kids were able to complete the task without much of our help (Allowing us to have a long break after that dancing workout). [Lesson 13](https://studio.code.org/s/dance/stage/1/puzzle/13) is a section where [students can share their dance moves with others using the “Share” button](https://youtu.be/pIxdBhJb8lc?t=73). We asked kids to share the link to Seesaw so that others can look at them. Here is the [activity](https://app.seesaw.me/pages/shared_activity?share_token=dm6Y3-KrQayQZ9vkeYSdPg&prompt_id=prompt.a258ccd4-1234-401c-bf5e-9cdde6c39067) for that. 
 
 Here are submissions from students in the activity dashboard.  
 
@@ -143,7 +162,7 @@ Here are submissions from students in the activity dashboard.
 
 ### Like Time
 
-Before we moved on to each student's presentations, we took 5 minutes for kids to look at others’ work. The work shows up in the journal or the activity dashboard. They can like it or comment on them.
+Before we moved on to each student's presentations, we took 5 minutes for kids to look at others’ work. The work shows up in the journal or the activity dashboard. They can like it or comment on them. 
 
 Seesaw allows for liking and commenting on others’ work in the class. We saw a lot of interaction among kids. This is an advantage of using Seesaw.
 
@@ -193,7 +212,7 @@ From the Seattle classroom, we presented several works in the classroom and aske
 <iframe height='220' width='160' src='https://app.seesaw.me/pages/shared_item?item_id=item.439fb2d4-5aac-4a1f-ac1e-f6a508528824&share_token=cfXYRHs3Tqy8MnFaTdQ23g&mode=embed'></iframe>
 
 
-##
+## 
 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Event-Report3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -201,13 +220,13 @@ From the Seattle classroom, we presented several works in the classroom and aske
 ![alt_text](images/Event-Report3.jpg "image_tooltip")
 
 
-Fukuoka
+Fukuoka 
 
 
 ##  \
 Kahoot time
 
-As usual, we did a Kahoot quiz show about what we learned in class that day
+As usual, we did a Kahoot quiz show about what we learned in class that day 
 
 
 ## Feedback
@@ -227,7 +246,7 @@ Good things about class
 
 
 
-*   We got to do an hour of code, and we got to share our work with the class, and see other people’s work, too.
+*   We got to do an hour of code, and we got to share our work with the class, and see other people’s work, too. 
 *   Made abstract concept fun to understand and practice. Students from multiple places can observe each other’s projects simultaneously.
 *   The best part was that kids could make their own creation and then show it off.  
 *   The class was fun for my kids, they always ask when the next class will be after the class has ended. Well done again to the team!
@@ -261,7 +280,7 @@ Good things about class
 
 
 
-*   My son wanted to make his own character.
+*   My son wanted to make his own character. 
 *   The content was easy for my 13 years old so he didn't feel overly challenged. Adding additional levels of challenge or stretch goals for older students or students who have been attending the classes for a long time could help keep them engaged
 *   I want you to increase the number of drawing and graphs.
 *   The screen of Kahoot was hard to see.
@@ -281,7 +300,7 @@ Good things about class
 
 
 *   Thank you for your support. It made kids to have more interest in coding. It was a precious experience.
-*   Thank you for the snack. My son liked ebikatsu
+*   Thank you for the snack. My son liked ebikatsu 
 *   I had a great time. I want to come again next month.
 *   I'm glad I joined.
 *   I’m glad that I got the first prize.
@@ -311,5 +330,3 @@ Seattle
 
 
 <!-- Docs to Markdown version 1.0β17 -->
-
-
