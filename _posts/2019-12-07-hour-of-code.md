@@ -177,9 +177,7 @@ As usual, we did a Kahoot quiz show about what we learned in class that day
 ## Feedback
 
 
-
 ![alt_text](/img/2019-12-07/Event-Report4.png "image_tooltip")
-
 
 
 ### Comments
@@ -217,10 +215,7 @@ Good things about class
 *   The dance and interaction with Japanese people were interesting.
 *   To be able to learn programming in English
 
-
-## Improvements needed
-
-
+### Improvements needed
 
 *   My son wanted to make his own character.
 *   The content was easy for my 13 years old so he didn't feel overly challenged. Adding additional levels of challenge or stretch goals for older students or students who have been attending the classes for a long time could help keep them engaged
@@ -236,10 +231,7 @@ Good things about class
 *   I want to use the computer more.
 *   talk about something more difficult.
 
-
-## Comments
-
-
+### Comments
 
 *   Thank you for your support. It made kids to have more interest in coding. It was a precious experience.
 *   Thank you for the snack. My son liked ebikatsu
@@ -259,7 +251,6 @@ Good things about class
 *   It was good that there was support in Japanese.
 *   Sandwich TRES is delicious.
 *   I'm interested in robotics.
-
 
 
 ![alt_text](/img/2019-12-07/Event-Report5.jpg "image_tooltip")
