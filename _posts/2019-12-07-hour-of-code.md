@@ -14,7 +14,7 @@ CS in English has been [teaching computer science](https://sijp.org/category/edu
 
 The first week of December is called “Computer Education Week” due to [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)’s birthday being on December 6th. During this week, students all over the world study computer science, and at the same time, the event called “Hour of Code” is held to raise awareness for coding by providing a one-hour introduction to computer science for all ages of people.
 
-<iframe width="1029" height="643" src="https://www.youtube.com/embed/kn7NcbKUsDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/kn7NcbKUsDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Main Theme of the Class
@@ -53,7 +53,7 @@ In the class, software engineer answered these questions.
 
 ## Teacher Introduction
 
-<iframe width="782" height="489" src="https://www.youtube.com/embed/C55Y4OjHTRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/C55Y4OjHTRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Unplugged Dance Activity
@@ -63,7 +63,7 @@ In the class, software engineer answered these questions.
 
 First, we introduced “Events” and “Event-Driven Programs”. Please watch the following video
 
-<iframe width="1029" height="643" src="https://www.youtube.com/embed/fN0tre9ZvE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/fN0tre9ZvE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here are some examples of Event-Driven Programs:
 
@@ -82,7 +82,7 @@ First, he introduced six dances: Dabbing, High Claps, The Star, Body Rolls, the 
 
 It looked like the most difficult dance was the Floss. Here is a video about the Floss dance for beginners:
 
-<iframe width="1143" height="643" src="https://www.youtube.com/embed/ru1ZZhxLX2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/ru1ZZhxLX2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A lot of kids in U.S. seemed to know about the Floss dance prior to this event, which was a surprise to us and our Japanese audience.
 
@@ -96,10 +96,7 @@ In dance we use something called Counts. Four Counts is equivalent to a Measure,
 We had blast at the dance lesson thanks to Yosuke. Not only the kids, but also parents participated in it, we hope they had fun!
 
 
-
-![alt_text](images/Event-Report1.jpg "image_tooltip")
-
-
+![alt_text](/img/2019-12-07/Event-Report1.jpg "image_tooltip")
 From Kumamoto
 
 After the dancing we had small break. In Seattle, we had very tasty sandwiches from [TRES](http://tressandwich.com/) (they gave us some extra for the hard-working kids). We appreciated this act of kindness, thank you very much to the people from TRES.  
@@ -163,19 +160,19 @@ From the Seattle classroom, we presented several works in the classroom and aske
 <iframe height='220' width='160' src='https://app.seesaw.me/pages/shared_item?item_id=item.439fb2d4-5aac-4a1f-ac1e-f6a508528824&share_token=cfXYRHs3Tqy8MnFaTdQ23g&mode=embed'></iframe>
 
 
-##
-
 ![alt_text](/img/2019-12-07/Event-Report3.jpg "image_tooltip")
 
 
 Fukuoka
 
 
-##  \
-Kahoot time
+## Kahoot time
 
 As usual, we did a Kahoot quiz show about what we learned in class that day
 
+<iframe width="560" height="340" src="https://www.youtube.com/embed/YZQmSMpG-_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="340" src="https://www.youtube.com/embed/f0d6laD4hAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Feedback
 
