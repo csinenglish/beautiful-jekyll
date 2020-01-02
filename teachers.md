@@ -12,9 +12,9 @@ Kenji Imasaki is a test enginner at Google. He was born in Kobe, Japan
 and went to schools in Japan and Canada. Then, we worked for Amazon
 and Facebook/Oculus.
 
-
-
 # Mario
+
+![Mario Nishio](/img/Mario.jpg)
 
 Mario Nishio is a software developer at Micosoft with emphasis on
 backend development that finds value in having strong communication
@@ -29,6 +29,9 @@ Japanese myself, I pride myself being able to help these students with
 similar background as me to grow as a globally aware bilinguals.
 
 # Laurie
+
+![Laurie Griffiths](/img/Laurie.jpg)
+
 
 
 
