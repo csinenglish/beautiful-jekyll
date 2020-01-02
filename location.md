@@ -32,8 +32,7 @@ technology.
 
 ## Iizuka
 
-[School of Computer Science and Systems Engineering / Graduate School
-of Computer Science and Systems Engineering (Iizuka Campus)]((https://www.kyutech.ac.jp/english/about/map/iizuka.html) 
+[Kyushu Institute of Technology]((https://www.kyutech.ac.jp/english/about/map/iizuka.html) ]((https://www.kyutech.ac.jp/english/about/map/iizuka.html) 
 
 ## Kurume
 
