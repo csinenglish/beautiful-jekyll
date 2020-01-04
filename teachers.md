@@ -10,7 +10,8 @@ subtitle: A list of teachers
 
 Kenji Imasaki is a test enginner at Google. He was born in Kobe, Japan
 and went to schools in Japan and Canada. Then, we worked for Amazon
-and Facebook/Oculus.
+and Facebook/Oculus.   
+
 
 # Mario
 
@@ -36,3 +37,6 @@ similar background as me to grow as a globally aware bilinguals.
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0Mzc1ODIyXX0=
+-->
