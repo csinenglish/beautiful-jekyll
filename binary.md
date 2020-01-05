@@ -3,6 +3,19 @@ layout: page
 title: CS in English
 subtitle: Binary Number System
 ---
+# Goals
+- Understand why a computer use binary system
+- Convert binary numbers to decimal numbers
+- Convert decimal numbers to binary numbers
+
+# Vocabulary
+- binary 
+- decimal
+- bit
+- byte
+- carry over
+- place values
+
 # Introduction
 
 First watch the following videos to understand the basic of binary number systems.
