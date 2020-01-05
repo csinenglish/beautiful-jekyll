@@ -4,7 +4,7 @@ title: CS in English
 subtitle: Binary Number System
 ---
 # Goals
-- Understand why a computer use binary system
+- Understand why a computer uses binary number system
 - Convert binary numbers to decimal numbers
 - Convert decimal numbers to binary numbers
 
