@@ -11,10 +11,11 @@ subtitle: Binary Number System
 # Vocabulary
 - binary 
 - decimal
-- bit
-- byte
+- base
 - carry over
 - place values
+- bit
+- byte
 
 # Introduction
 
