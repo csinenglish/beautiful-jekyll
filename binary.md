@@ -11,6 +11,8 @@ First watch the following videos to understand the basic of binary number system
 
 # Binary Gloves
 
+## Making a binary glove
+
 You need
 * a white glove
 * black sharpie
@@ -27,9 +29,24 @@ Right an arrow from pinky to thumb
 
 This side of your hand is the binary side.
 
+<iframe width="1163" height="654" src="https://www.youtube.com/embed/lCFS54Ifk3Q?list=PLi-qDeIYZnYnvmoYD0bJUZUCC1w5k-df2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Count the numbers 0-31
+
+Step 1.
+Count the number from 0 to 31 with the binary glove.
+
+Step 2.
+Count the number from 0 to 31 wihtout the binary glove.
+
 The following videos explains more.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLi-qDeIYZnYnvmoYD0bJUZUCC1w5k-df2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 
 # Quiz
 
