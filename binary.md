@@ -5,7 +5,7 @@ subtitle: Binary Number System
 ---
 # Introduction
 
-First watch 
+First watch the following videos to understand the basic of binary number systems.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLi-qDeIYZnYl8tGhXpsKbqU_dCBTTBKOB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
