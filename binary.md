@@ -29,7 +29,7 @@ Right an arrow from pinky to thumb
 
 This side of your hand is the binary side.
 
-<iframe width="1163" height="654" src="https://www.youtube.com/embed/lCFS54Ifk3Q?list=PLi-qDeIYZnYnvmoYD0bJUZUCC1w5k-df2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCFS54Ifk3Q?list=PLi-qDeIYZnYnvmoYD0bJUZUCC1w5k-df2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Count the numbers 0-31
 
