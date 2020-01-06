@@ -19,6 +19,6 @@ subtitle: Logic
 - AND/OR
 - NAND/NOR/XOR
 
-# Mystery Animal Game
+# Play Mystery Animal Game
 
 Go to [website](https://mysteryanimal.withgoogle.com/) or using Google Home and play the game.
