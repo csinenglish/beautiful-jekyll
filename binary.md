@@ -23,9 +23,11 @@ First watch the following videos to understand the basic of binary number system
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLi-qDeIYZnYl8tGhXpsKbqU_dCBTTBKOB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Binary Gloves
+# Acvtivity
 
-## Making a binary glove
+## Binary Gloves
+
+### Making a binary glove
 
 You need
 * a white glove
@@ -45,7 +47,7 @@ This side of your hand is the binary side.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCFS54Ifk3Q?list=PLi-qDeIYZnYnvmoYD0bJUZUCC1w5k-df2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Count the numbers 0-31
+### Count the numbers 0-31
 
 Step 1.
 Count the number from 0 to 31 with the binary glove.
@@ -62,5 +64,7 @@ The following videos explains more.
 <iframe src="https://sijp.org/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="560" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://sijp.org/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 # Looking for more?
+
+<iframe width="966" height="408" src="https://www.youtube.com/embed/6mbFO0ZLMW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjqgP9dpD1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
