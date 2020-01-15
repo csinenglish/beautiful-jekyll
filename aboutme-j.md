@@ -1,0 +1,57 @@
+---
+layout: page
+title: CS in English
+subtitle: About this project
+---
+
+![Tree Pose](/img/tree.jpg)
+
+コンピュータによる情報処理や計算などに関する理論の基礎を、同時中継を使用し、アメリカの子どもたちと一緒に英語で学習します。シアトル在住のITエンジニアによる授業に日本（福岡・熊本）からビデオチャットで参加、同じ教材と学習システムを使い、子どもたちが英語でコミュニケーションをしながら楽しく学習を進めていきます。
+
+対象：小・中学生（10歳～15歳ぐらいまで）
+
+![Kahoot](/img/201912Kahoot.jpg)
+
+この授業では、北米の半数を超える小学校で使用されている教育用ソーシャルアプリ「Seesaw」とクイズプラットフォーム「Kahoot」を利用して学習過程を共有しながら進めていきます。
+Seesaw　https://web.seesaw.me/
+Kahoot　https://kahoot.com/welcomeback/
+
+動画は[A Youtube
+channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
+
+
+[![](/img/youtubelogo.png)](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)
+
+[![](http://img.youtube.com/vi/MyIARnSaYX8/0.jpg)](http://www.youtube.com/watch?v=MyIARnSaYX8)
+
+シアトル・福岡・熊本をオンラインで繋ぎ、アメリカの子どもたちと一緒にコンピューターについて英語で学びます。このイベントの目的は、コンピューターについて正しく理解することではなく、「コンピューターについて英語で学ぶ」という普段はできない体験を、子どもたちの心に「楽しかった思い出」として残してもらうこと、そして、シアトルや熊本の子どもたちとWebで繋がることで、物理的な距離は克服できると体感してもらうことです。
+
+それによって、未知のことに挑戦し学ぶ楽しさや、テクノロジーへの好奇心を少しでも育んでもらえたらと考えています。英語で学ぶことはとてもハードルが高い試みですが、子どもたちが「また挑戦したい！」と思える場作りを目指して準備をしています。
+
+２０１８年には次の授業を実施しました。
+
+- [第1回：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180422_report/)
+- [第2回：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180617/)
+- [特別編：Kenji先生がやってくる ヤァ!ヤァ!ヤァ! - Search/Sort Algorithm（サーチ（探索）・ソート（整列）アルゴリズム）](https://sijp.org/sort-search-algorithm-in-kumamoto-ja/)
+- [第3回：デバッグについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20181021_report/)
+- [第4回 : ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://sijp.org/event-report-tree-algorithm-lets-play-with-trees/)
+- [第5回 : Hour of code – Shall we Dance?～コードを使ってダンスをしよう！](https://sijp.org/code-org-hour-of-code/)
+
+２０１９年にはVOL2として、次の授業を実施しました。
+- 第1回：Binary number：2進数について楽しく学ぼう
+- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/)
+- [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/)
+- [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/)
+- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう]()
+- 第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！
+
+また、次のイベントにも参加しました。
+- [青少年のための科学の祭典](https://www.kumalr.net/2019/08/cs-in-english.html)
+- [サイエンス☆どんたく](https://www.fukuokacity-kagakukan.jp/activity/2019/10/112114.html)
+- [Japan Week @ Bellevue College](https://studentweb.bellevuecollege.edu/japan-week/japan-week-schedule-2/)
+
+次の学校にも授業を提供しました。
+- 嘉島東小学校(5年)
+- 嘉島西小学校(5年)
+
+２０２０年も様々なプログラムを提供予定です。
