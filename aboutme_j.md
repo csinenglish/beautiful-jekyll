@@ -15,6 +15,7 @@ subtitle: 英語で学ぶコンピュータサイエンス
 この授業では、北米の半数を超える小学校で使用されている教育用ソーシャルアプリ「Seesaw」とクイズプラットフォーム「Kahoot」を利用して学習過程を共有しながら進めていきます。
 - [Seesaw](https://web.seesaw.me/)
 - [Kahoot](https://kahoot.com/)
+- [Wooclap](https://wooclap.com)
 
 動画は[A Youtube
 channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
@@ -47,12 +48,12 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/)
 
 また、次のイベントにも参加しました。
-- [青少年のための科学の祭典](https://www.kumalr.net/2019/08/cs-in-english.html)
-- [サイエンス☆どんたく](https://www.fukuokacity-kagakukan.jp/activity/2019/10/112114.html)
+- [青少年のための科学の祭典 熊本大会 2019](https://www.kumalr.net/2019/08/cs-in-english.html)
+- [福岡市科学館　サイエンス☆どんたく](https://www.fukuokacity-kagakukan.jp/activity/2019/10/112114.html)
 - [Japan Week @ Bellevue College](https://studentweb.bellevuecollege.edu/japan-week/japan-week-schedule-2/)
 
 次の学校にも授業を提供しました。
-- 嘉島東小学校(5年)
-- 嘉島西小学校(5年)
+- 熊本県嘉島町立嘉島東小学校(5年)
+- 熊本県嘉島町立嘉島西小学校(5年)
 
 ２０２０年も様々なプログラムを提供予定です。
