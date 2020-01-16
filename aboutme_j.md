@@ -56,4 +56,9 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [熊本県嘉島町立嘉島東小学校(5年)](https://www.town.kumamoto-kashima.lg.jp/q/aview/1/2042.html)
 - 熊本県嘉島町立嘉島西小学校(5年)
 
+プレスリリース
+- [満足度96%！シアトルのITエンジニアが英語で教える無料の子ども向けプログラミング教育イベントを福岡のスタートアップ施設で開催！](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
+- [学ぶとポイントがもらえる「英語で学ぶコンピュータサイエンス」無料オンライン学習サービスのクローズドβテストをシアトル・福岡で開始](https://prtimes.jp/main/html/rd/p/000000003.000036248.html)
+- [Kids Code Clubが「第５回英語で学ぶコンピュータサイエンス Hour of Code- Shall we Dance?～コードを使ってダンスをしよう！」をシアトル・熊本・福岡を繋ぎ開催](https://prtimes.jp/main/html/rd/p/000000002.000036248.html)
+
 ２０２０年も様々なプログラムを提供予定です。
