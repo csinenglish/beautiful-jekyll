@@ -13,8 +13,8 @@ subtitle: About this project
 ![Kahoot](/img/201912Kahoot.jpg)
 
 この授業では、北米の半数を超える小学校で使用されている教育用ソーシャルアプリ「Seesaw」とクイズプラットフォーム「Kahoot」を利用して学習過程を共有しながら進めていきます。
-Seesaw　https://web.seesaw.me/
-Kahoot　https://kahoot.com/welcomeback/
+- [Seesaw](https://web.seesaw.me/)
+- [Kahoot](https://kahoot.com/)
 
 動画は[A Youtube
 channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
