@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CS in English
-subtitle: About this project
+subtitle: 英語で学ぶコンピュータサイエンス
 ---
 
 ![Tree Pose](/img/tree.jpg)
