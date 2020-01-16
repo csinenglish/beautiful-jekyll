@@ -38,12 +38,13 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [第5回 : Hour of code – Shall we Dance?～コードを使ってダンスをしよう！](https://sijp.org/code-org-hour-of-code/)
 
 ２０１９年にはVOL2として、次の授業を実施しました。
-- 第1回：Binary number：2進数について楽しく学ぼう
+
+- [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145)
 - [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/)
 - [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/)
 - [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/)
-- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう]()
-- 第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！
+- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801)
+- [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/)
 
 また、次のイベントにも参加しました。
 - [青少年のための科学の祭典](https://www.kumalr.net/2019/08/cs-in-english.html)
