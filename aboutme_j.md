@@ -62,3 +62,9 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [Kids Code Clubが「第５回英語で学ぶコンピュータサイエンス Hour of Code- Shall we Dance?～コードを使ってダンスをしよう！」をシアトル・熊本・福岡を繋ぎ開催](https://prtimes.jp/main/html/rd/p/000000002.000036248.html)
 
 ２０２０年も様々なプログラムを提供予定です。
+
+エッセー/インタビュー
+- [今、求められる教育とは何か～シアトルIT ジャパニーズ・プロフェッショナルズ～](https://www.soysource.net/2019/01/why-is-stem-education-so-important/)
+- [グーグルで働くエンジニアによる 故郷・熊本での特別授業体験記](https://internet.watch.impress.co.jp/docs/imreboot/column/1100805.html)
+- [日本の子どもたちに ”世界はつながっている” と実感してもらえれば](https://www.junglecity.com/kids/kids-learn/sijp-offers-english-computer-science-classes/)
+- [コンピュータ教育プロジェクト](https://www.junglecity.com/people/essay-stem-education/)
