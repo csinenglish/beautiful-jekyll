@@ -53,7 +53,7 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [Japan Week @ Bellevue College](https://studentweb.bellevuecollege.edu/japan-week/japan-week-schedule-2/)
 
 次の学校にも授業を提供しました。
-- 熊本県嘉島町立嘉島東小学校(5年)
+- [熊本県嘉島町立嘉島東小学校(5年)](https://www.town.kumamoto-kashima.lg.jp/q/aview/1/2042.html)
 - 熊本県嘉島町立嘉島西小学校(5年)
 
 ２０２０年も様々なプログラムを提供予定です。
