@@ -49,7 +49,7 @@ navbar-links:
     - Kyushu Instutitute of Technology (Iizuka Campus) : "https://www.kyutech.ac.jp/english/about/map/iizuka.html"
     - Bellevue College : "https://www.bellevuecollege.edu/"
   JP Page:
-    - Overview: "aboutme-j"
+    - Overview: "aboutme_j"
 #  Teachers: "techers"
 
 # Image to show in the navigation bar - image must be a square (width = height)
