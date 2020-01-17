@@ -17,7 +17,7 @@ subtitle: 英語で学ぶコンピュータサイエンス
 - [Kahoot](https://kahoot.com/)
 - [Wooclap](https://wooclap.com)
 
-動画は[A Youtube
+動画は[Youtube
 channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
 
 
