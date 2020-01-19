@@ -48,7 +48,7 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1660), [Youtube](https://www.youtube.com/watch?v=C55Y4OjHTRQ&list=PLi-qDeIYZnYn3NWv5kNNwDhRVIQ66Nj8g)
 
 また、次のイベントにも参加しました。
-- [青少年のための科学の祭典 熊本大会 2019](https://www.kumalr.net/2019/08/cs-in-english.html)
+- [青少年のための科学の祭典 熊本大会 2019](https://www.kumalr.net/2019/08/cs-in-english.html), [Youtube](https://www.youtube.com/watch?v=0WLa02NBlHY&list=PLi-qDeIYZnYmDcvnikPvZbMMea66FYYLY)
 - [福岡市科学館　サイエンス☆どんたく](https://www.fukuokacity-kagakukan.jp/activity/2019/10/112114.html)
 - [Japan Week @ Bellevue College](https://studentweb.bellevuecollege.edu/japan-week/japan-week-schedule-2/)
 
