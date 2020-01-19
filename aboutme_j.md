@@ -17,7 +17,7 @@ subtitle: 英語で学ぶコンピュータサイエンス
 - [Kahoot](https://kahoot.com/)
 - [Wooclap](https://wooclap.com)
 
-動画は[A Youtube
+動画は[Youtube
 channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
 
 
@@ -41,7 +41,7 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 ２０１９年にはVOL2として、次の授業を実施しました。
 
 - [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145)
-- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/)
+- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/)[他のレポート](https://www.kumalr.net/2019/05/2019-2.html)
 - [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/)
 - [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/)
 - [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801)
