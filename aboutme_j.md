@@ -35,17 +35,17 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 - [第2回：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180617/), [熊本LRネットレポート](https://www.kumalr.net/2018/06/2.html)
 - [特別編：Kenji先生がやってくる ヤァ!ヤァ!ヤァ! - Search/Sort Algorithm（サーチ（探索）・ソート（整列）アルゴリズム）](https://sijp.org/sort-search-algorithm-in-kumamoto-ja/)
 - [第3回：デバッグについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20181021_report/), [熊本LRネットレポート](https://www.kumalr.net/2018/11/3.html), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1384)
-- [第4回 : ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://sijp.org/event-report-tree-algorithm-lets-play-with-trees/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1466)
+- [第4回 : ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://sijp.org/event-report-tree-algorithm-lets-play-with-trees/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1466), [Youtube](https://www.youtube.com/watch?v=p3vnokhSh9s&list=PLi-qDeIYZnYlBlmsSfo9c_cDpXK24Ya57)
 - [第5回 : Hour of code – Shall we Dance?～コードを使ってダンスをしよう！](https://sijp.org/code-org-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1492)
 
 ２０１９年にはVOL2として、次の授業を実施しました。
 
-- [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1571)
-- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/), [熊本LRネットレポート](https://www.kumalr.net/2019/05/2019-2.html), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1593)
-- [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/)
-- [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/)
-- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1653)
-- [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1660)
+- [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1571), [Youtube](https://www.youtube.com/watch?v=zng4mn4_rYo&list=PLi-qDeIYZnYnDtZSXHB2-l91A_DPlqp4N)
+- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/), [熊本LRネットレポート](https://www.kumalr.net/2019/05/2019-2.html), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1593), [Youtube](https://www.youtube.com/watch?v=fDA3LNzl-Hk&list=PLi-qDeIYZnYmVhJPB4W7vWc8-QI5mI9Zh)
+- [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/), [Youtube](https://www.youtube.com/watch?v=eo_ow36xQN8&list=PLi-qDeIYZnYkdPk5THpTP3PMnezPpFl3d)
+- [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/), [Youtube](https://www.youtube.com/watch?v=uu_LmRhW0kg&list=PLi-qDeIYZnYkb8pIcBZzgUNj2_iv63plL)
+- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1653), [Youtube](https://www.youtube.com/watch?v=_mD-xRaOgR0&list=PLi-qDeIYZnYlhcKwbAckU6OC-3r9vQ86u)
+- [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1660), [Youtube](https://www.youtube.com/watch?v=C55Y4OjHTRQ&list=PLi-qDeIYZnYn3NWv5kNNwDhRVIQ66Nj8g)
 
 また、次のイベントにも参加しました。
 - [青少年のための科学の祭典 熊本大会 2019](https://www.kumalr.net/2019/08/cs-in-english.html)
