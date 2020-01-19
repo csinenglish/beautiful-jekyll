@@ -31,21 +31,21 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 
 ２０１８年には次の授業を実施しました。
 
-- [第1回：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180422_report/), [他のレポート](https://www.kumalr.net/2018/05/1.html)
-- [第2回：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180617/), [他のレポート](https://www.kumalr.net/2018/06/2.html)
+- [第1回：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180422_report/), [熊本LRネットレポート](https://www.kumalr.net/2018/05/1.html)
+- [第2回：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20180617/), [熊本LRネットレポート](https://www.kumalr.net/2018/06/2.html)
 - [特別編：Kenji先生がやってくる ヤァ!ヤァ!ヤァ! - Search/Sort Algorithm（サーチ（探索）・ソート（整列）アルゴリズム）](https://sijp.org/sort-search-algorithm-in-kumamoto-ja/)
-- [第3回：デバッグについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20181021_report/), [他のレポート](https://www.kumalr.net/2018/11/3.html)
-- [第4回 : ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://sijp.org/event-report-tree-algorithm-lets-play-with-trees/)
-- [第5回 : Hour of code – Shall we Dance?～コードを使ってダンスをしよう！](https://sijp.org/code-org-hour-of-code/)
+- [第3回：デバッグについて楽しく学ぼう](https://kidscodeclub.jp/computer-science_20181021_report/), [熊本LRネットレポート](https://www.kumalr.net/2018/11/3.html), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1384)
+- [第4回 : ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://sijp.org/event-report-tree-algorithm-lets-play-with-trees/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1466)
+- [第5回 : Hour of code – Shall we Dance?～コードを使ってダンスをしよう！](https://sijp.org/code-org-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1492)
 
 ２０１９年にはVOL2として、次の授業を実施しました。
 
-- [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145)
-- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/), [他のレポート](https://www.kumalr.net/2019/05/2019-2.html)
+- [第1回：Binary number：2進数について楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/videos/650221085391145), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1571)
+- [第2回：Computer Logic：コンピュータロジックを楽しく学ぼう](https://kidscodeclub.jp/cs-in-english-2-2-report/), [熊本LRネットレポート](https://www.kumalr.net/2019/05/2019-2.html), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1593)
 - [特別編：Debug「バグって何？バグ退治をやってみないか？](https://sijp.org/fukuoka-debug-class-report/)
 - [第3回：Search/Sort ：サーチ（探索）・ソート（整列）アルゴリズムについて楽しく学ぼう](https://sijp.org/921-search-sort-algorithms-ja/)
-- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801)
-- [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/)
+- [第4回：Tree Algorithms：ツリー（木）を使ったアルゴリズムについて楽しく学ぼう](https://www.facebook.com/kidscodeclubjp/posts/1206481019522801), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1653)
+- [第5回：Hour of code～Shall we Dance?：コードを使ってダンスをしよう！](https://www.csinenglish.club/2019-12-07-hour-of-code/), [熊本高専レポート](https://www.hi.kumamoto-nct.ac.jp/?p=1660)
 
 また、次のイベントにも参加しました。
 - [青少年のための科学の祭典 熊本大会 2019](https://www.kumalr.net/2019/08/cs-in-english.html)
@@ -59,7 +59,7 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 プレスリリース
 - [満足度96%！シアトルのITエンジニアが英語で教える無料の子ども向けプログラミング教育イベントを福岡のスタートアップ施設で開催！](https://prtimes.jp/main/html/rd/p/000000004.000036248.html)
 - [学ぶとポイントがもらえる「英語で学ぶコンピュータサイエンス」無料オンライン学習サービスのクローズドβテストをシアトル・福岡で開始](https://prtimes.jp/main/html/rd/p/000000003.000036248.html)
-- [Kids Code Clubが「第５回英語で学ぶコンピュータサイエンス Hour of Code- Shall we Dance?～コードを使ってダンスをしよう！」をシアトル・熊本・福岡を繋ぎ開催](https://prtimes.jp/main/html/rd/p/000000002.000036248.html)
+- [Kids Code Clubが「第５回英語で学ぶコンピュータサイエンス Hour of Code- Shall we Dance?～コードを使ってダンスをしよう！」をシアトル・熊本・福岡を繋ぎ開催](https://prtimes.jp/main/html/rd/p/000000002.000036248.html), 
 
 ２０２０年も様々なプログラムを提供予定です。
 
