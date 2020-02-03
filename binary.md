@@ -65,6 +65,20 @@ The following videos explains more.
 
 # Looking for more?
 
+## Quizlet
+
+<iframe src="https://quizlet.com/480348154/match/embed?i=19v3zi&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+<iframe src="https://quizlet.com/480348154/learn/embed?i=19v3zi&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+<iframe src="https://quizlet.com/480348154/test/embed?i=19v3zi&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+<iframe src="https://quizlet.com/480348154/flashcards/embed?i=19v3zi&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+<iframe src="https://quizlet.com/480348154/spell/embed?i=19v3zi&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+
+## CS50
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6mbFO0ZLMW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjqgP9dpD1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
