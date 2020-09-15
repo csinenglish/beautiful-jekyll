@@ -1,0 +1,51 @@
+---
+layout: page
+title: CS in English Event Report 
+subtitle: 08/22/2020 How the internet works Event Report (in Japanese)
+---
+7/19のCS in English＜How the Internet works＞無事に終わりました！日本全国・アメリカ・中国・オーストラリアから、子ども105名、スタッフ20名の、合計125名が参加してくれましたありがとうございました！
+
+参加者の分布は次のようでした。
+![](/img/2020-07-19/map1.png)
+![](/img/2020-07-19/map2.png)
+
+仙台の高専からたくさんの申込があり、高校生と小中学生が入り混じった、面白い学び場になりました。英語の先生が紹介してくださったそうです
+
+今回は授業の途中に3回、英語のレベルや年齢などに合わせて部屋を16個に分けて、
+
+1. 自己紹介
+2. 宿題の紹介
+3. ディスカッション
+4. ドメインを取得してメッセージを送り合う
+
+というアクティビティを行いました。
+
+宿題は[What does the Internet look like](https://www.helloruby.com/play/18)をやってもらいました。
+
+<iframe width="757" height="426" src="https://www.youtube.com/embed/WMwVWGyRiH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+授業の様子はTWITTERをごらんください。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">7/19の <a href="https://twitter.com/hashtag/CSinEnglish?src=hash&amp;ref_src=twsrc%5Etfw">#CSinEnglish</a>＜How the Internet works＞無事に終わりました！日本全国・アメリカ・中国・オーストラリアから、子ども105名、スタッフ20名の、合計125名が参加してくれました✨ありがとうございました！詳しくはfacebookのポストをご覧ください😉<a href="https://t.co/XrMbxSjdLm">https://t.co/XrMbxSjdLm</a> <a href="https://t.co/inbguVp9C2">pic.twitter.com/inbguVp9C2</a></p>&mdash; Kids Code Club💻 (@kidscodeclubjp) <a href="https://twitter.com/kidscodeclubjp/status/1285568409111945218?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今回のイベントのためにHiroshi先生がつくってくれたDNS App👏参加者それぞれに1つずつIPアドレスを配って、Host nameを自分でつけてもらい、友だちとメッセージを送り合うアクティビティをとおして、IPアドレスやドメインの仕組みについて学びました✨ <a href="https://t.co/efn27qQsIF">pic.twitter.com/efn27qQsIF</a></p>&mdash; Kids Code Club💻 (@kidscodeclubjp) <a href="https://twitter.com/kidscodeclubjp/status/1285713808296681478?ref_src=twsrc%5Etfw">July 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">午前中は <a href="https://twitter.com/kidscodeclubjp?ref_src=twsrc%5Etfw">@kidscodeclubjp</a> 主催のオンラインイベントに参加！<br><br>ちょっと難しい内容だったけど、ブレイクアウトルームに分かれて英語でディスカッション、my domain作ってお互いメッセージ送りあい、Kahootのクイズetc...<br><br>アクティビティもとても楽しそうに参加していました👍✨<a href="https://twitter.com/hashtag/CSinEnglish?src=hash&amp;ref_src=twsrc%5Etfw">#CSinEnglish</a> <a href="https://t.co/68YHrSah6l">pic.twitter.com/68YHrSah6l</a></p>&mdash; Kaori (@k_koool_) <a href="https://twitter.com/k_koool_/status/1284725810113376256?ref_src=twsrc%5Etfw">July 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+授業自体はほぼ英語のみだったにも関わらず、90%の子どもが最後のアクティビティまで残ってくれました。アクティビティ中は、英語レベルに合わせて、日本語だけを使っていた部屋や、英語の自己紹介に挑戦してくれた部屋、国を超えて英語だけでコミュニケーションしていた部屋もあったようです！
+「はじめて経験で最初は戸惑っていたけど、徐々に笑顔が増えていきました」
+「異なる国の人と交流できたり、他の人の考え方に触れられました」
+「英語があまり分からなくても楽しめました、もっと英語を学びたいと思いました」
+「いかに自分が学校のテストで点数を取るだけで満足していたか分かりました」
+「コンピュータについてもっと詳しく学びたいと思いました」
+「発言できなくても後で聞いてみると、色々な事を感じているのだなと思いました」
+「子供達が生き生き楽しんでいたので良かったです！」
+『英語がほとんどわからない』『日常会話は理解できない』という子どもが半分以上いましたが、どんな英語レベルの子どもたちも、授業を楽しみながら、最後まで積極的に挑戦してくれていたことがコメントからよく分かりました！
+図やイラストをたくさん使った分かりやすい授業を準備したり、この日のためだけにインターネットの仕組みを体験できるアプリを開発してくださった3人の先生たち、そして、アクティビティで子どもたちを丁寧にサポートしてくださったTAのみなさん、そのほかご協力頂いた学校・団体・企業のみなさん、本当にありがとうございました！
+
+
+参加した子どもの約90％が、最後のアクティビティまで残っていたことが分かりました！
+今回、授業自体は日本語での補足がほぼない中、ここまで残ってもらえたのはすごいですね！
+「英語がほとんどわからない＋学校・スクールで学んでいる（日常会話は理解できない）」という子どもが45％だったので、授業を楽しみながら、最後までがんばって挑戦してくれていたことが、よく分かります。先生・TAの皆さんのおかげだと思います
+
+![](/img/2020-07-19/survey.jpg)
