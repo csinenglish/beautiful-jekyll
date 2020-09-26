@@ -11,10 +11,9 @@ subtitle: 08/22/2020 How the internet works (Part2) Event Report (in Japanese)
 
 今回もアメリカと日本のITエンジニアを中心に約２０名のTeaching Assintantに参加していただき、英語レベルに合わせて部屋に分けて、日英で自己紹介をしたり、Code.orgのインターネットシュミレーターを使ったメッセージのやりとりをしながら、インターネットの仕組みについて学びました。
 
+宿題はDNSは何かという動画を作ってもらいました。
 
-宿題は[What does the Internet look like](https://www.helloruby.com/play/18)をやってもらいました。
-
-<iframe width="757" height="426" src="https://www.youtube.com/embed/WMwVWGyRiH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/a8NUf3tdT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 授業の様子はTWITTERをごらんください。
 
