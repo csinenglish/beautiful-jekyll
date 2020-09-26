@@ -19,7 +19,7 @@ subtitle: 08/22/2020 How the internet works (Part2) Event Report (in Japanese)
 
 ブレークアウトでのクラスを円滑に運営し、英語のボランティア及び日本語のボランティアを統括するために、今回初めてボランティアガイドを作成しました。１週間前にリハーサルを行い、問題点を解決しました。
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/a8NUf3tdT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/a8NUf3tdT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # 宿題
@@ -34,9 +34,9 @@ DNSやIPアドレスの復習を実際のサイト（http://yahoo.co.jp）を使
 
 DNSについてはCODE.ORGのビデオが参考になります。
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/5o8CwafCxnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5o8CwafCxnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-そして、BREAAKOUTROOMに別れ、DNSの機能をインターネットシュミレータの[アクティビティ](https://studio.code.org/s/netsim/stage/8/puzzle/1)　または、[アクティビティ](https://studio.code.org/s/csp2-2020/stage/6/puzzle/2) を使って、実際に体験してみました。
+そして、ブレークアウトに別れ、DNSの機能をインターネットシュミレータの[アクティビティ](https://studio.code.org/s/netsim/stage/8/puzzle/1)　または、[アクティビティ](https://studio.code.org/s/csp2-2020/stage/6/puzzle/2) を使って、実際に体験してみました。
 
 
 # 後半
@@ -45,7 +45,7 @@ DNSについてはCODE.ORGのビデオが参考になります。
 
 ![](/img/2020-08-23/packet.png)
 
-そして、BREAAKOUTROOMに別れ、前半と同じアクテビティを使って実際にパケットを送ってみました。
+そして、ブレークアウトに別れ、前半と同じアクテビティを使って実際にパケットを送ってみました。
 
 # アンケート
 
