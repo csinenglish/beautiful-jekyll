@@ -19,12 +19,12 @@ subtitle: 08/22/2020 How the internet works (Part2) Event Report (in Japanese)
 
 ブレークアウトでのクラスを円滑に運営し、英語のボランティア及び日本語のボランティアを統括するために、今回初めてボランティアガイドを作成しました。１週間前にリハーサルを行い、問題点を解決しました。
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/a8NUf3tdT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 # 宿題
 
 宿題は、[前回のクラス](https://www.csinenglish.club/2020-07-19-internet/)の復習として、[DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)は何かという動画を作ってもらいました。
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/a8NUf3tdT1c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # 前半
 
