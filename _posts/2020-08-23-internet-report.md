@@ -1,24 +1,16 @@
 ---
 layout: page
 title: CS in English Event Report 
-subtitle: 08/22/2020 How the internet works Event Report (in Japanese)
+subtitle: 08/22/2020 How the internet works (Part2) Event Report (in Japanese)
 ---
-7/19のCS in English＜How the Internet works＞無事に終わりました！日本全国・アメリカ・中国・オーストラリアから、子ども105名、スタッフ20名の、合計125名が参加してくれましたありがとうございました！
+8/23の CS in English ＜How the Internet works Part2＞無事に終わりました！日本全国、アメリカ、中国、香港、オーストラリアなど、小学生から高校生まで、子どもとスタッフ合わせて約100名が参加しましたありがとうございました！
 
 参加者の分布は次のようでした。
-![](/img/2020-07-19/map1.png)
-![](/img/2020-07-19/map2.png)
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=13WZZY2nr-jDIk5mrKoMNpcDwthcFCjLV" width="640" height="480"></iframe>
 
-仙台の高専からたくさんの申込があり、高校生と小中学生が入り混じった、面白い学び場になりました。英語の先生が紹介してくださったそうです
 
-今回は授業の途中に3回、英語のレベルや年齢などに合わせて部屋を16個に分けて、
+今回もアメリカと日本のITエンジニアを中心に約２０名のTeaching Assintantに参加していただき、英語レベルに合わせて部屋に分けて、日英で自己紹介をしたり、Code.orgのインターネットシュミレーターを使ったメッセージのやりとりをしながら、インターネットの仕組みについて学びました。
 
-1. 自己紹介
-2. 宿題の紹介
-3. ディスカッション
-4. ドメインを取得してメッセージを送り合う
-
-というアクティビティを行いました。
 
 宿題は[What does the Internet look like](https://www.helloruby.com/play/18)をやってもらいました。
 

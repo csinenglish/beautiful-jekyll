@@ -18,7 +18,7 @@ subtitle: 英語で学ぶコンピュータサイエンス
 - [Wooclap](https://wooclap.com)
 
 動画は[Youtube
-channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にあります
+channel](https://www.youtube.com/c/csinegnlish)にあります
 
 
 [![](/img/youtubelogo.png)](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)
@@ -28,6 +28,8 @@ channel](https://www.youtube.com/channel/UCyCSSAU2C8m7Zo_QZnbbiSw)にありま�
 シアトル・福岡・熊本をオンラインで繋ぎ、アメリカの子どもたちと一緒にコンピューターについて英語で学びます。このイベントの目的は、コンピューターについて正しく理解することではなく、「コンピューターについて英語で学ぶ」という普段はできない体験を、子どもたちの心に「楽しかった思い出」として残してもらうこと、そして、シアトルや熊本の子どもたちとWebで繋がることで、物理的な距離は克服できると体感してもらうことです。
 
 それによって、未知のことに挑戦し学ぶ楽しさや、テクノロジーへの好奇心を少しでも育んでもらえたらと考えています。英語で学ぶことはとてもハードルが高い試みですが、子どもたちが「また挑戦したい！」と思える場作りを目指して準備をしています。
+
+２０２０年
 
 ２０１８年には次の授業を実施しました。
 
