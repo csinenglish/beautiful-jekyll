@@ -16,7 +16,9 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 
 参加者の分布は次のようでした。
+
 ![](/img/2020-10-17/JapanMap.png)
+
 ![](/img/2020-10-17/WorldMap.png)
 
 仙台の高専からたくさんの申込があり、高校生と小中学生が入り混じった、面白い学び場になりました。英語の先生が紹介してくださったそうです
@@ -29,10 +31,6 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 というアクティビティを行いました。
 
-宿題は[What does the Internet look like](https://www.helloruby.com/play/18)をやってもらいました。
-
-<iframe width="757" height="426" src="https://www.youtube.com/embed/WMwVWGyRiH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 授業の様子はTWITTERをごらんください。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10/18に CS in English ＜What is Database?：データベースって何だろう？＞を開催しました！日本全国、アメリカ、オーストラリアより小学生～高校生＆スタッフ約90名が参加しました✨ありがとうございました！J:COMさんの取材もありました！詳しいレポートはこちら👇👇<a href="https://t.co/M3yhVyBgmS">https://t.co/M3yhVyBgmS</a> <a href="https://t.co/gNoRNQGvY6">pic.twitter.com/gNoRNQGvY6</a></p>&mdash; Kids Code Club💻 (@kidscodeclubjp) <a href="https://twitter.com/kidscodeclubjp/status/1318419271790198784?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -40,8 +38,8 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 # Data and Database
 
 # SQL
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/9kJL-YXwkmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9kJL-YXwkmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kahoot
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/a3zyZzkRLec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/a3zyZzkRLec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
