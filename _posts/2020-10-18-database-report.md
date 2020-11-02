@@ -36,9 +36,11 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 # Data and Database
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fYX1_pSPLP0?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # SQL
-<iframe width="640" height="360" src="https://www.youtube.com/embed/9kJL-YXwkmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9kJL-YXwkmg?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Kahoot
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/a3zyZzkRLec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/a3zyZzkRLec?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
