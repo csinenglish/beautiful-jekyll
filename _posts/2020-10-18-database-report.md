@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: CS in English Event Report 
