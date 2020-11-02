@@ -44,3 +44,7 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 # Kahoot
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/a3zyZzkRLec?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Survery Results
+
+[](/img/2020-10-17/survey.png)
