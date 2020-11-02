@@ -1,0 +1,64 @@
+---
+layout: page
+title: What is Database Class
+subtitle: Database Definition
+---
+
+
+```
+CREATE TABLE students
+    (`timestamp` datetime, `name` varchar(14) CHARACTER SET utf8, `subject` varchar(18), `month` varchar(3), `height` int, `chara` varchar(8))
+;
+    
+INSERT INTO students
+    (`timestamp`, `name`, `subject`, `month`, `height`, `chara`)
+VALUES
+    ('2020-10-17 09:54:58', 'Student01', 'Math', 'Dec', 162, 'Doraemon'),
+    ('2020-10-17 10:21:29', 'Student02', 'Math', 'Mar', 162, 'Kumamon'),
+    ('2020-10-15 05:09:09', 'Student03', 'Social Study', 'May', 159, 'Mario'),
+    ('2020-10-15 13:00:14', 'Student04', 'Math', 'Mar', 150, 'Kumamon'),
+    ('2020-10-17 06:47:52', 'Student05', 'Math', 'Jul', 181, 'Mario'),
+    ('2020-10-17 07:39:17', 'Student06, 'Math', 'Aug', 163, 'Pikachu'),
+    ('2020-10-17 11:32:18', 'Student07', 'Math', 'Aug', 140, 'Doraemon'),
+    ('2020-10-17 11:34:06', 'Student08', 'Physical Education', 'Jul', 127, 'Pikachu'),
+    ('2020-10-15 15:27:19', 'Student11', 'Social Study', 'Jul', 143, 'Doraemon'),
+    ('2020-10-16 16:14:54', 'Student12', 'Physical Education', 'Oct', 127, 'Barbie'),
+    ('2020-10-16 20:06:34', 'Student13', 'Math', 'Apr', 165, 'Mario'),
+    ('2020-10-16 21:32:47', 'Student14', 'Physical Education', 'Dec', 136, 'Pikachu'),
+    ('2020-10-17 02:09:09', 'Student15', 'Math', 'Aug', 156, 'Pikachu'),
+    ('2020-10-17 03:02:36', 'Student16', 'Physical Education', 'Dec', 130, 'Doraemon'),
+    ('2020-10-17 04:11:41', 'Student17', 'Math', 'Apr', 180, 'Pikachu'),
+    ('2020-10-17 16:50:14', 'Student18', 'Math', 'Apr', 142, 'Doraemon'),
+    ('2020-10-17 16:52:08', 'Student19', 'Math', 'Jul', 150, 'Doraemon'),
+    ('2020-10-16 21:33:56', 'Student20', 'Math', 'Sep', 170, 'Pikachu'),
+    ('2020-10-16 03:02:30', 'Student21', 'Math', 'Mar', 135, 'Kumamon'),
+    ('2020-10-13 05:50:22', 'Student22', 'Physical Education', 'May', 160, 'Doraemon'),
+    ('2020-10-13 20:17:36', 'Student23', 'Math', 'Dec', 130, 'Mario'),
+    ('2020-10-16 16:55:08', 'Student24', 'Math', 'Oct', 161, 'Pikachu'),
+    ('2020-10-16 19:09:04', 'Student25', 'English', 'Jun', 131, 'Pikachu'),
+    ('2020-10-16 19:51:30', 'Student26', 'Japanese', 'Apr', 154, 'Doraemon'),
+    ('2020-10-14 02:27:51', 'Student27', 'Math', 'Oct', 137, 'Kumamon'),
+    ('2020-10-17 16:27:52', 'Student28', 'Math', 'Sep', 175, 'Pikachu'),
+    ('2020-10-17 16:47:36', 'Student29', 'English', 'Jan', 153, 'Barbie'),
+    ('2020-10-14 11:48:01', 'Student30', 'English', 'Dec', 138, 'Pikachu'),
+    ('2020-10-15 00:52:56', 'Student31', 'Physical Education', 'Dec', 159, 'Pikachu'),
+    ('2020-10-16 14:42:03', 'Student32', 'Social Study', 'Mar', 157, 'Doraemon'),
+    ('2020-10-16 21:34:59', 'Student33', 'Japanese', 'Oct', 140, 'Pikachu'),
+    ('2020-10-16 21:35:29', 'Student34', 'Math', 'Sep', 171, 'Pikachu'),
+    ('2020-10-16 21:46:39', 'Student35', 'Physical Education', 'Jun', 153, 'Pikachu'),
+    ('2020-10-16 22:43:27', 'Student36', 'Math', 'Jul', 174, 'Pikachu'),
+    ('2020-10-16 22:53:20', 'Student37', 'Physical Education', 'Aug', 140, 'Pikachu'),
+    ('2020-10-17 01:42:07', 'Student38', 'Math', 'Jan', 138, 'Pikachu'),
+    ('2020-10-17 04:33:52', 'Student39', 'Math', 'Jul', 121, 'Pikachu'),
+    ('2020-10-17 04:34:15', 'Student40', 'English', 'Jan', 138, 'Pikachu'),
+    ('2020-10-17 05:03:03', 'Student41', 'Math', 'Oct', 158, 'Kumamon'),
+    ('2020-10-17 05:35:12', 'Student42', 'Social Study', 'Mar', 143, 'Doraemon'),
+    ('2020-10-17 05:53:59', 'Student43', 'Math', 'Feb', 125, 'Mario'),
+    ('2020-10-17 06:08:27', 'Student44', 'Social Study', 'May', 164, 'Doraemon'),
+    ('2020-10-17 06:27:05', 'Student45', 'Math', 'Jan', 127, 'Mario'),
+    ('2020-10-17 13:37:47', 'Student46', 'Math', 'Jul', 160, 'Doraemon'),
+    ('2020-10-16 04:50:45', 'Student47', 'Physical Education', 'Aug', 151, 'Doraemon'),
+    ('2020-10-12 04:46:43', 'Student48', 'Math', 'Sep', 145, 'Doraemon')
+;
+```
+
