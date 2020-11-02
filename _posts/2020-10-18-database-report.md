@@ -47,4 +47,4 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 # Survery Results
 
-[](/img/2020-10-17/survey.png)
+![](/img/2020-10-17/survey.png)
