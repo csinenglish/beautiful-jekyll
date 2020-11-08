@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-07T18:49:56Z",
+  "id": "binary-number-system",
+  "duration": 24,
+  "title": "Binary Number System",
+  "authors": "Kenji Imasaki",
+  "summary": "In this lesson, you'll learn binary number systems",
+  "source": "1K8PxuNHL5yaZITc-Y14JNSzDjYfH8V0sNiJxzGCM5Xc",
+  "theme": "basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Basic"
+  ],
+  "tags": [
+    "binary",
+    "english"
+  ],
+  "feedback": "https://sijp.org/contact-us",
+  "url": "binary-number-system"
+}
