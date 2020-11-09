@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-09T04:38:42Z",
+  "id": "database",
+  "duration": 70,
+  "title": "Binary Number System",
+  "authors": "Kenji Imasaki",
+  "summary": "In this lesson, you'll learn database",
+  "source": "1hYqAKHilTE9pPbBzBPhmPaQb9o8Rkm4TE5owDlv-mEc",
+  "theme": "advanced",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "advanced"
+  ],
+  "tags": [
+    "database",
+    "english"
+  ],
+  "feedback": "https://sijp.org/contact-us",
+  "url": "database"
+}
