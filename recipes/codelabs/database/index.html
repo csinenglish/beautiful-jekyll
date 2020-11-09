@@ -44,9 +44,11 @@
 
       </google-codelab-step>
     
-      <google-codelab-step label="Watch youtube video - what is Database" duration="2">
-        <h2 is-upgraded><strong>English</strong></h2>
-<iframe class="youtube-video" src="https://www.youtube.com/embed/fYX1_pSPLP0?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <google-codelab-step label="Vocabulary" duration="5">
+        <ul>
+<li><a href="https://www.google.com/search?q=data+pronunciation" target="_blank">Data</a></li>
+<li><a href="https://www.google.com/search?q=database+pronunciation" target="_blank">Database</a></li>
+</ul>
 
 
       </google-codelab-step>
@@ -58,44 +60,59 @@
 
       </google-codelab-step>
     
-      <google-codelab-step label="Vocabulary" duration="5">
-        <ul>
-<li><a href="https://www.google.com/search?q=data+pronunciation" target="_blank">Data</a></li>
-<li><a href="https://www.google.com/search?q=database+pronunciation" target="_blank">Database</a></li>
-</ul>
-
-
-      </google-codelab-step>
-    
       <google-codelab-step label="Activity 1 : Design Amazon Database" duration="10">
         <p>Create an Amazon databases using <a href="https://docs.google.com/spreadsheets/d/17O7f1RkJT57Dzo_QiSuLEFkjPmlQwuv7lXH8v_q2BQ8/copy" target="_blank">template</a>.</p>
+<p>Answer sample is <a href="https://docs.google.com/spreadsheets/d/10nVH9S2CEUu5D8S1SpOGIX-mjqZDsYVFTp6HrF3bhNM/edit#gid=0" target="_blank">here</a></p>
 
 
       </google-codelab-step>
     
-      <google-codelab-step label="Quiz" duration="2">
-        <iframe class="embedded-iframe" src="https://sijp.org/wp-admin/admin-ajax.php?action=h5p_embed&id=2"></iframe>
+      <google-codelab-step label="Watch youtube video - what is Database" duration="2">
+        <h2 is-upgraded><strong>English</strong></h2>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/fYX1_pSPLP0?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+      </google-codelab-step>
+    
+      <google-codelab-step label="Activity 2 : run SQL query using DB Fiddle" duration="10">
+        <ol type="1" start="1">
+<li>Go to <a href="https://www.db-fiddle.com/" target="_blank">DB Fiddle website</a></li>
+<li>Copy Database from <a href="https://www.csinenglish.club/2020-10-17-database/" target="_blank">here</a></li>
+<li>Write the following questions using SQL:</li>
+</ol>
+<ol type="1" start="1">
+<li>/* show all data in the students table */</li>
+<li>/*  get a list of favorite subjects */</li>
+<li>/* Get a list of students born in October */</li>
+<li>/* get list of students born in either November (nov) or December (dec) */</li>
+<li>/* Get the height of the shortest student */</li>
+<li>/* Get the height of the tallest student */</li>
+<li>/* Get the list of students that submitted the form first */</li>
+</ol>
+<ol type="1" start="4">
+<li>The answers are :</li>
+</ol>
+<ol type="1" start="1">
+<li>SELECT * FROM students</li>
+<li>SELECT subject FROM students</li>
+<li>SELECT name FROM students WHERE month = &#34;oct&#34;</li>
+<li>SELECT name FROM students WHERE month = &#34;nov&#34; OR month = &#34;dec&#34;;</li>
+<li>SELECT MIN(height) FROM students</li>
+<li>SELECT MAX(height) FROM students</li>
+<li>SELECT * FROM students ORDER BY timestamp ASC;</li>
+</ol>
 
 
       </google-codelab-step>
     
       <google-codelab-step label="Kahoot" duration="3">
-        <iframe class="embedded-iframe" src="https://kahoot.it/challenge/06133209"></iframe>
-
-
-      </google-codelab-step>
-    
-      <google-codelab-step label="Quizlet" duration="3">
-        <iframe class="embedded-iframe" src="https://quizlet.com/480348154/learn/embed?i=19v3zi&x=1jj1"></iframe>
-<iframe class="embedded-iframe" src="https://quizlet.com/480348154/test/embed?i=19v3zi&x=1jj1"></iframe>
-<iframe class="embedded-iframe" src="https://quizlet.com/480348154/flashcards/embed?i=19v3zi&x=1jj1"></iframe>
-<iframe class="embedded-iframe" src="https://quizlet.com/480348154/spell/embed?i=19v3zi&x=1jj1"></iframe>
+        <iframe class="embedded-iframe" src="https://kahoot.it/challenge/07492680"></iframe>
 
 
       </google-codelab-step>
     
       <google-codelab-step label="Learn more" duration="45">
-        <iframe class="youtube-video" src="https://www.youtube.com/embed/jjqgP9dpD1k?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="youtube-video" src="https://www.youtube.com/embed/u5pDdEKnbKA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
       </google-codelab-step>
