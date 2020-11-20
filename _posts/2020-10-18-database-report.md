@@ -16,9 +16,10 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 参加者の分布は次のようでした。
 
-![](/img/2020-10-17/JapanMap.png)
+<img src=”/img/2020-10-17/JapanMap.png" height="300">
 
-![](/img/2020-10-17/WorldMap.png)
+<img src=”/img/2020-10-17/WorldMap.png" height="300">
+
 
 仙台の高専からたくさんの申込があり、高校生と小中学生が入り混じった、面白い学び場になりました。英語の先生が紹介してくださったそうです
 
