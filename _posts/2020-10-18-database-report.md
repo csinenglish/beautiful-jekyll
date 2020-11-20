@@ -16,10 +16,9 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 参加者の分布は次のようでした。
 
-<img src=”/img/2020-10-17/JapanMap.png" height="300">
+![](/img/2020-10-17/JapanMap.png)
 
-<img src=”/img/2020-10-17/WorldMap.png" height="300">
-
+![](/img/2020-10-17/WorldMap.png)
 
 仙台の高専からたくさんの申込があり、高校生と小中学生が入り混じった、面白い学び場になりました。英語の先生が紹介してくださったそうです
 
@@ -35,6 +34,10 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">10/18に CS in English ＜What is Database?：データベースって何だろう？＞を開催しました！日本全国、アメリカ、オーストラリアより小学生～高校生＆スタッフ約90名が参加しました✨ありがとうございました！J:COMさんの取材もありました！詳しいレポートはこちら👇👇<a href="https://t.co/M3yhVyBgmS">https://t.co/M3yhVyBgmS</a> <a href="https://t.co/gNoRNQGvY6">pic.twitter.com/gNoRNQGvY6</a></p>&mdash; Kids Code Club💻 (@kidscodeclubjp) <a href="https://twitter.com/kidscodeclubjp/status/1318419271790198784?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# 教材
+
+授業の[教材](https://www.csinenglish.club/recipes/codelabs/database)を作りました。ご覧になってください。KAHOOTもあります。
+
 # Data and Database
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fYX1_pSPLP0?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -46,7 +49,7 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/a3zyZzkRLec?list=PLi-qDeIYZnYmGoMN9TfoaS7Y5nyQrXupB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Survery Results
+# アンケートの結果
 
 ![](/img/2020-10-17/survey.png)
 
@@ -54,4 +57,3 @@ subtitle: 10/18/2020 What is Database(in Japanese)
 
 ![](/img/2020-10-17/survey3.png)
 
-![](/img/2020-10-17/survey4.png)
