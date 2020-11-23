@@ -3,7 +3,7 @@ layout: page
 title: CS in English Event Announce
 subtitle: 12/05/2020 : Encrption and CS Quiz
 ---
-## How the internet works
+# Encrption and CS Quiz
 
 Japanese version can be found [here](https://kidscodeclub.jp/computer-science_20201206/)
 
@@ -18,7 +18,7 @@ Using Zoom breakout rooms, they can interact each other in small groups.
 
 Even if you don't understand English well, we will make it fun!
 
-![](https://kidscodeclub.jp/wp_kcc/wp-content/uploads/2020/11/csEnglish2020_5-1024x723.jpg)
+![](https://kidscodeclub.jp/wp_kcc/wp-content/uploads/2020/11/banner20201206-1.jpg)
 
 
 The first event (Youtube) was held in April, and nearly 90 children and adults from all over Japan, the United States, China, Australia, and other countries participated online! 
@@ -50,13 +50,10 @@ Time: 16:30-18:30
 
 ### Contents: 
 
-"How the Internet works - What is the Internet Part2?"　
+"Encryption & CS Quiz"
 
-Have you ever wondered how the Internet, which we use every day, works? Why is it that if you type www.google.com anywhere, the Google screen will appear and you can search? Why don't you learn how this works through a variety of activities and quizzes? You'll be taught by our friendly teachers.
+[Computer Science Education Week](https://www.csedweek.org/) will start from  December 7. So, The first half of the week will be devoted to learning the basics of encryption using [Google's CSFirst UNPLUGGED](https://csfirst.withgoogle.com/c/cs-first/en/cs-first-unplugged/overview.html). As a group work activity, we'll do "Send a secret message: try to send a secret message". In the second half, we'll have a quiz competition on Kahoot, which we all love. We'll ask for homework questions from you, anything related to CS (computer science), and there will be a prize for the most interesting question!
 
-We will use [internet simulator](https://studio.code.org/s/netsim) of code.org.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kn6Fd5uwZno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Participation fee: Free
 
@@ -68,19 +65,18 @@ What you'll need: a computer with an Internet connection (you'll need to install
 
 How to participate: Those who have applied will be informed.
 
-Application:  [bit.ly/csinenglish3](bit.ly/csinenglish6)
+Application:  [bit.ly/csinenglish5](bit.ly/csinenglish5)
 
 
-### Instructor
+### Instructor & MC
 
-Utako Kase (in Seattle)
+Daniel Thiyagu
 
-
-![](https://kidscodeclub.jp/wp_kcc/wp-content/uploads/2020/05/utako2.jpg)
-
-### M.C.
+![](https://kidscodeclub.jp/wp_kcc/wp-content/uploads/2020/11/unnamed-282x300.png)
 
 tomo hoku angie
+
+![](https://kidscodeclub.jp/wp_kcc/wp-content/uploads/2020/11/tomo.jpg)
 
 ### Cautions
 
