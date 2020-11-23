@@ -3,7 +3,7 @@ layout: page
 title: CS in English Event Announce
 subtitle: 12/05/2020 : Encrption and CS Quiz
 ---
-# Encrption and CS Quiz
+## Encrption and CS Quiz
 
 Japanese version can be found [here](https://kidscodeclub.jp/computer-science_20201206/)
 
@@ -11,7 +11,7 @@ Japanese version can be found [here](https://kidscodeclub.jp/computer-science_20
 
 Computer Science in English (CS in English) Vol.3, No.3 "How the Internet works Part2? This is an announcement of an online event.
 
-Apply : [https://bit.ly/csinenglish3](https://bit.ly/csinenglish3)  
+Apply : [https://bit.ly/csinenglish5](https://bit.ly/csinenglish5)  
 
 Engineers from Seattle will conduct classes in English, connected in real-time via video conference tool. Everyone will use the same material, and they will be challenged to participate in class with quizzes and small activities. It will be an online class using the video conferencing service "Zoom" where the teacher and students can interact. 
 Using Zoom breakout rooms, they can interact each other in small groups. 
