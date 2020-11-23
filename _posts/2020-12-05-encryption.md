@@ -1,9 +1,10 @@
 ---
 layout: page
 title: CS in English Event Announce
-subtitle: 12/05/2020 : Encrption and CS Quiz
+subtitle: 12/05/2020 Encrption and CS Quiz
 ---
-## Encrption and CS Quiz
+
+# Encrption and CS Quiz
 
 Japanese version can be found [here](https://kidscodeclub.jp/computer-science_20201206/)
 
