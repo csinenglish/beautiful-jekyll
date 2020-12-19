@@ -49,15 +49,25 @@ subtitle: 12/06/2020 Encryption + CS Quiz (in Japanese)
 
 ## Video
 
+### 前半
+
 <iframe width="921" height="518" src="https://www.youtube.com/embed/JUZeZJ5nDIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 後半
 
 <iframe width="921" height="518" src="https://www.youtube.com/embed/DSlyTn01YKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Kahoot
+## CS　クイズ大会
+
+### 問題
 
 <iframe width="921" height="518" src="https://kahoot.it/challenge/04672569" frameborder="0" allowfullscreen></iframe>
 
+### ビデオ
+
 <iframe width="921" height="518" src="https://www.youtube.com/embed/MdNcBT1lVbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 賞品
 
 Kahootの賞品は次のかたにおくらせていただきました。
 
@@ -67,7 +77,6 @@ Kahootの賞品は次のかたにおくらせていただきました。
 賞品：micro:bit v2 + Scratchではじめる機械学習
 ＜回答部門15-100歳：na＞
 賞品：micro:bit v2 + Scratchではじめる機械学習
-
 
 ＜出題部門1位＞
 
@@ -84,9 +93,10 @@ Kahootの賞品は次のかたにおくらせていただきました。
 
 # アンケートの結果
 
-![](/img/2020-10-17/survey.png)
+![](/img/2020-12-06/survey1.png)
 
-![](/img/2020-10-17/survey2.png)
+![](/img/2020-12-06/survey2.png)
 
-![](/img/2020-10-17/survey3.png)
+![](/img/2020-12-06/survey3.png)
 
+![](/img/2020-12-06/survey4.png)
