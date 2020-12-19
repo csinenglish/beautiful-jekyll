@@ -6,9 +6,10 @@ subtitle: 12/06/2020 Encryption + CS Quiz (in Japanese)
 # Event
 
 12/6に CS in English  ＜Encryption&Decryption + CS Quiz：暗号化の基本とCSクイズ大会＞を開催しました！日本全国とアメリカから、小学生～高校生まで、子ども・スタッフ合わせて約90名が参加しました✨参加してくださりありがとうございました！
-前半は、「暗号化」の基本的な考え方を学んだあと、宿題でつくってもらったcipher wheel（サイファ ホイール）や[Scratch]（https://scratch.mit.edu/projects/456924699）などを使って、暗号を解いたり、クッキーを食べた犯人を探すゲームをしました🍪
+前半は、「暗号化」の基本的な考え方を学んだあと、宿題でつくってもらったcipher wheel（サイファ ホイール）や[Scratch](https://scratch.mit.edu/projects/456924699)などを使って、暗号を解いたり、クッキーを食べた犯人を探すゲームをしました🍪
 後半は、子どもたちに人気のKahootを使って、CSクイズ大会を開催しました！出題されるクイズは子どもたちやTA（ティーチング・アシスタント）から募集したので、ユニークなものや、難しいもの、いろいろなクイズが出題されていて面白かったです😆
 年齢ごとに、クイズの回答1位になった方、面白いクイズを出題された方に、ただいま賞品をお届けする準備をしています！賞品を寄付してくださった皆様、ありがとうございました！🎁
+
 今回は、子どもが発言する機会も多く、CS in Englishの場が、「英語でCSを学ぶ」というだけでなく、他の価値観、他の文化をもつ子ども同士が触れ合う場にもなっていることを感じられる回でした！チャットもかなりにぎやかで、しっかりと自分の意見を主張したり、質問をしたりする相手を見て、子どもたちもとても刺激を受けていたようでした！英語で進行していることが、発言のハードルになることもあったと思いますが、少しでも、「もっと分かるようになりたい！」という意欲につながればとても嬉しいです。
 
 今回で、今期のCS in Englishは終了となりました。コロナの影響で、リアルな場での開催が難しくなり、すべてオンラインへと変更となりましたが、たくさんのボランティアスタッフ、パートナー、サポーターの皆様のおかげで、のべ300名以上の子どもたちへワクワクする英語＆CS体験を提供することができました。様々な方面から子どもたちの学びをサポートしてくださった皆様、そして、参加してくださった子どもたち、保護者の皆様、本当にありがとうございました！
@@ -26,11 +27,22 @@ subtitle: 12/06/2020 Encryption + CS Quiz (in Japanese)
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/NXYaMSqGRaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+写真の提出ありがとうございました。
 
 ### CS に関するKAHOOTの問題を作る
 
-## 参加者の分布は次のようでした。
+Google form を使ってKAHOOTの問題を募集しました。優れていた問題は本番で実際に使いました
+
+4択クイズの答えは、以下のように考えると作りやすいです。
+1. 正解
+2. まぎららわしい答え
+3. まったく違う答え
+4. 面白い答え
+
+（例）What is 15 in binary number?　15は2進数でいくつでしょう？
+①1111 　②111　③0　④16
+
+## 参加者の分布
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1hjTZhJ6HToZKxeSkjgr20aO6nVurUnpA" width="640" height="480"></iframe>
 
@@ -47,7 +59,7 @@ subtitle: 12/06/2020 Encryption + CS Quiz (in Japanese)
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">12/6に <a href="https://twitter.com/hashtag/CSinEnglish?src=hash&amp;ref_src=twsrc%5Etfw">#CSinEnglish</a> ＜Encryption&amp;Decryption + CS Quiz：暗号化の基本とCSクイズ大会＞を開催しました🚀日本全国とアメリカから、小学生～高校生まで、子ども・スタッフ合わせて約90名が参加しました✨参加してくださりありがとうございました！詳しいレポートはこちら😊<a href="https://t.co/Mt1rQtvXvp">https://t.co/Mt1rQtvXvp</a> <a href="https://t.co/BqyfVL4ZAc">pic.twitter.com/BqyfVL4ZAc</a></p>&mdash; Kids Code Club💻 (@kidscodeclubjp) <a href="https://twitter.com/kidscodeclubjp/status/1336562432349650945?ref_src=twsrc%5Etfw">December 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Video
+## 授業の様子
 
 ### 前半
 
