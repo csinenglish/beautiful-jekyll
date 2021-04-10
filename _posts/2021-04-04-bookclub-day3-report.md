@@ -53,7 +53,7 @@ subtitle: 04/04/2021 Book Club Day 3
 そして Girls who code の翻訳者、鳥井さん、今回もご参加いただきました。
 
 
-![](/img/2021-04-04/reiko.jpg)
+![](/img/2021-04-04/reiko.png)
 
 ![](/img/2021-04-04/yuki.jpg)
 
