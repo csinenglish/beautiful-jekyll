@@ -7,6 +7,8 @@ subtitle: 03/07/2021 Book Club Day 1
 
 2021年3月からスタートしたBook Clubでは『Girls Who Code - 女の子の未来をひらくプログラミング』（レシュマ サウジャニ著）を取り上げ、参加者全員で本を読みながら、プログラミングについて語り合います。第1回目の3月7日（日本時間）は、日本語版を翻訳し、自身もRubyのプログラマーである鳥井雪さんを交え、日本とアメリカから参加した小中高生24人がコンピューターの基礎についてオンラインで活発にディスカッションしました。
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/2g18ga3tXfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 日本語、英語、日英MIXでのブレークアウトセッション
 
 冒頭のオープニングセッションの後はすぐに参加者が言葉の希望に応じて3つのグループに分かれます。まずはShow and Tellといって、自由に好きなもの、好きなことを簡単にプレゼンして自己紹介とするアクティビティでスタート。今読んでいる本やおもちゃ、自分で手掛けたパッチワークなど様々な”アイテム”が登場し、楽しく打ち解け合いました。
