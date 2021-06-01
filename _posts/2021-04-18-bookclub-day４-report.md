@@ -1,0 +1,278 @@
+---
+layout: page
+title: CS in English Event Report - Book Club
+subtitle: 04/18/2021 Book Club Day 4
+---
+# コンピュータサイエンスの基礎がやさしく学べる『Girls Who Code』を小中高生が日本語と英語で読みながら議論するBook Clubを開催！
+
+22021年3月からスタートしたBook Clubでは『Girls Who Code - 女の子の未来をひらくプログラミング』（レシュマ サウジャニ著）を取り上げ、参加者全員で本を読みながら、プログラミングについて語り合います。最終回の第4回目の4月１８日（日本時間）は、日本語版を翻訳し、自身もRubyのプログラマーである鳥井雪さんを交え、日本とアメリカから参加した小中高生24人がコンピューターサイエンスの基礎についてオンラインで活発にディスカッションしました。
+
+## オープニングセッション
+
+冒頭のオープニングセッションは、みんなで参加します。最初はいつものようにファシリテーターの紹介から始まりました。
+
+![](/img/2021-04-18/facilitators.png)
+
+そして、今回でてくる[Rubber Ducky Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)について、TOMOさんが話ました。TOMOさんは、となりのけんじ君のガールフレンドになるためにはどうしたらいいかをRubber Duckyにきいています。もちろん、Rubber Duckyはワワワとかいいませんが、この方法はデバッグの解決法をみつけることができるかもしれません。
+
+![](/img/2021-04-18/ducky.png)
+
+
+その後に、スクラッチの[デバッグ問題](https://scratch.mit.edu/projects/515275328)を紹介しました。
+
+
+![](/img/2021-04-18/scratch.png)
+
+## 日本語、英語、日英MIXでのブレークアウトセッション
+
+### 英語グループ
+
+モデレーターはUniversity of Washingtonの学生であるShellyさんです。英語クラスは最初に自己紹介をかねて、子どもたちの近況と問題をみつけたときにだれに聞くかということをききました。Shellyは最近、ワクチンをうけました。Shellyは問題があるときはGoogleに聞きます。子どもたちの近況は、クラスのドレスアップデーでオレオになった、風船ファイトをした子や大宰府にいった子やブレースをした子がいました。宿題がいっぱいあって宿題をしたいた子もいました。問題があるときは、友達にきいたり、両親にきいたり、インターネットやGoogleで調べることがありました。
+
+本を読みはじめました。最初にがバグの種類として、Syntax ErrorとLogic Errorの種類について学びました。そして、デバッグの手順についてまなびました。問題があるときは最初にじぶんで考えて、そしてインターネット、友達、最後に先生に聞くことを本は推奨しました。
+
+また、Nobody is perfectという言葉とともに失敗してもいいことを学びました。 \
+
+
+ShellyはIDEのデモをしました。次のプログラムにはバグがあります。
+
+![](/img/2021-04-18/ide1.png)
+
+
+最初はSYNTAX ERRORで関数の名前が間違っています。
+
+![](/img/2021-04-18/ide2.png)
+
+
+それでも、オーダーはとまりません。
+
+![](/img/2021-04-18/ide3.png)
+
+
+Remaining_tacos += 1 -> Remaing_tacos -=　1　とかえます 
+
+
+![](/img/2021-04-18/ide4.png)
+
+やっと直りました。
+
+![](/img/2021-04-18/ide5.png)
+
+全体の本の感想で先週やったタコスが面白かったという意見がでました。
+
+ShellyはUWのコーヒー問題（学生がたくさんいるのにスターバックスが１つしかない）の解決策について話しました。子どもたちからは、アプリを作ったり、ドローンを使ったり、ストローを使うなど、大きなBOXを使ったり、ボタンで机をひっくり返しコーヒーを提供する。などと面白いアイデアがでました。
+
+
+### MIXグループ
+
+
+冒頭のアイスブレーキングは、「ポーズ当てクイズ」。カメラをオフにした状態で自分が何かのポーズを作り、それを英語で説明して皆に当ててもらうというものです。
+
+ ![](/img/2021-04-18/icebreak.png)
+
+
+口だけで説明することがいかに難しいかを感じてもらうエクササイズでしたが、ファシリテーターのUtakoさんだけではなく、参加者からの出題にも意外に皆きちんとやっていたのが驚きでした。みんなすごい！
+
+ 
+
+今回は第6章のデバッグを読みました。”デバッグ“という言葉が、実は本当に虫（実際にはガ）がマシンに入り込んで問題を起こしたのが始まりだという話から始まります。つまりデバッグはその虫を取り除く、つまり問題を修正するという意味です。プログラミングでは実際にクリエーティブなコードを書いているよりも、この“デバッグ”という作業とテスト作業のほうが圧倒的に多いのが実情です。この日は土曜日でしたが、Utakoさんは休日返上で一日このデバッグ作業をやっていたとのこと。これぞエンジニア！というエピソードでした。本では、自分で問題解決することの重要性を強調していましたが、Utakoさんの“デバッグ休日”も、まさに自分ひとりで間違いを探す作業でした。
+
+そしてこの章のメインポイントであるNobody is perfect（完璧な人などいない）という点。著者のラシュマさんは、特に女の子はきちんとすることを考えすぎるあまりに間違い（つまりバグ）を恐れてしまうということをじっくり読みこんでみんなで考えてみました。
+
+最後の全体セッションでＵｔａｋｏさんが感想を述べていました。ＭＩＸに参加した子は、はじめは英語のリーディングは恥ずかし気にやっていた感がありましたが、回を重ねるごとに自信を持って音読してくれて、発言もどんどんしてくれるようになりました。書籍に出てくる単語は難しいものも散見され、小学生の子が読むには大変なところもありましたが、いつも全員がしっかりと英語を読んでくれました。４回という短いセッションでしたが、皆しっかりと伸びてくれたのがＵｔａｋｏさんにとってもうれしかったところだったようです。
+
+さて最後はＵｔａｋｏさんのＩＤＥ（統合開発環境）を使ってデバッグのデモです！
+
+
+
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image10.png "image_tooltip")
+
+
+Pythonのサンプルコードを使って、printで値を表示させながらコードのどこが間違っているのかを探っていきます。コードは前回やったランチアルゴリズムをベースに、タコスを売り切ると店が閉まるというもの。ところがいつまでたっても店が閉まりません。
+
+皆で一行一行みていきながら、子供たちも「ここがおかしい、あそこが変」というようにバグのポイントを見つけていきました。いきなりのPythonコードだったにもかかわらずいろんな指摘が飛び交っていました。結構コーディングを理解している子がいますね！本格的なデバッグ作業を間近に見ることができてとてもよかったです
+
+
+## 日本語
+
+モデレーターは、北米シアトルのAMAZONでプロジェクトマネージャーとして働くReikoさん。
+
+
+
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image11.png "image_tooltip")
+
+
+Girls who code の翻訳者、鳥井さん、お子さんといっしょにご参加いただきました。
+
+
+
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image12.png "image_tooltip")
+
+
+以下、レポート
+
+
+
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image13.png "image_tooltip")
+
+
+
+
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image14.png "image_tooltip")
+
+
+今日はデバッグ
+
+少しゆっくり読んでいきましょうと Reikoさん
+
+バグとデバッグ
+
+グレースホッパーがコンピュータのバグをはじめてみつけたと言われている
+
+（でも注にあるように、本当はグレースホッパーが最初ではなかったみたい、と鳥井先生）
+
+シンタックスエラー
+
+ロジックエラー
+
+少し難しいので、例を見ていきましょう
+
+テキストには、Java Scriptでの例が出てきました。少し難しかったでしょうか。
+
+バグはどうやってなおせばいい？
+
+ネットで調べたり、友達や先生、先輩に聞くなど、助けを求めた方がいい。
+
+質問をするのはいいことだけど、自分で何かを解決すること、自分で考えてみることはとても大事。それを積み重ねることで自身が成長することにつながる。というReiko先生からのアドバイス。
+
+ラバーダックに話す、という方法は、じっと考えているだけではなくて口にだして問題を言ってみることで整理ができて、解決方法が思いつくかも、ということ。（ラバーダックデバッグという用語があるんですね。知りませんでした～）
+
+間違ってもいい、間違うことを恐れない、とにかくやってみることが大事。ということも Reiko先生もアメリカに来て学んだそう。
+
+IDE(Integrated Development Environment:統合開発環境) の例として、Reiko先生が使っている Visual Studio Codeを紹介。
+
+Pythonで書かれたtacosのコードをみんなでデバッグ。
+
+
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image15.png "image_tooltip")
+ループを無限に繰り返す論理エラーがあることを、print命令で確認しながら、不具合を直していく手順を確認していきました。
+
+「不完全さを受け入れる」という節の内容が、この本の中で一番好きなところ（Reiko先生）。翻訳していて一番よかったと感じたところ（鳥井さん）。
+
+Reiko先生からは、用語集を読むのも勉強になる、とのアドバイス。
+
+Reiko先生から、子どもたちに、これまでのクラスで一番難しかったところは？という質問。子どもたちからは、今回の6章が一番難しかったという声。
+
+子どもたちに喜多さんからの質問。
+
+スクラッチで思った通りに動かないときは、どうやって解決してる？
+
+誰かに聞く
+
+自分で解決できたというお友達も（そうすけくん）
+
+もうひとつ、同じようなコードを（コピーして）作って、比較しながら手直ししてみる。
+
+他にも、
+
+エラーメッセージをヒントに、自分で考えてみる。
+
+コードレビューで先輩、同僚に聞いてみる。他の人の目で見てもらう。
+
+など、デバッグの方法について、いくつかのアイデアが紹介されました。
+
+
+## エンディング
+
+みんなが集まって、そして、スクラッチの[デバッグ問題](https://scratch.mit.edu/projects/515275328)をみんなで考えました。ちさきちゃんは最初のバク（Change Count by 1　のブロックがつながってない)をみつけて、そのブロックをREPEATブロックにいれました。これはロジックエラーです。
+
+
+
+<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image16.png "image_tooltip")
+
+
+もう一つはバグは非常に難しいです。だれもわかりませんでした。じつは Repeat Until Count = 3 の 3 が全角の文字になっていました。それを半角に直すとやっと花火が３発あがりました。現役のエンジニアでもわかりませんでした。”Do not worry. Nobody is perfect”
+
+今回が最後のクラスなので、最後にファシリテーターからのメッセージをいただきました。
+
+&lt;iframe width="1424" height="507" src="https://www.youtube.com/embed/szRVh7eJBXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+
+
+## アンケート結果
+
+
+### 子ども向けアンケート
+
+
+### 楽しかったことや、印象に残ったことを教えてください
+
+
+
+*   デバッグの言葉の始まり。蛾の話が面白かった。
+*   スクラッチのデバッグを自分で見つけられて、楽しかった。
+*   始めは本当の虫が入ってたところが印象に残りました
+*   バグ　デバックが印象に残りました
+*   先生がプログラムを作って、みんなでバグを探したのが面白かった。
+*   すみません出れませんでした
+*   プログラミングのことがわかった気がした
+*   Debuging is not as hard as it seems.
+
+
+### 今日難しかったことや、変えて欲しいと思うことを教えてください
+
+
+
+*   もっとたくさん読みたかったです
+*   スクラッチが難しかったです
+*   特にないです
+*   なし。
+*   なし
+*   More specific situations
+
+
+### そのほか質問やメッセージ、ブッククラブ全体をとおしての感想などがあれば、自由に書いてください😊
+
+
+
+*   楽しかったです。ちょっとプラグラミングを、好きになりました。
+*   シェリーさんが分かりやすく説明しながら進めてくれたのでより、楽しくなりました！
+*   楽しかったです！
+*   みんなと会話するのと、アイデアを出し合うのが楽しかったです。コーディングがどんなものか、もっと知れました！
+*   I liked how everything was short and simple. It was very connected.
+
+
+# 保護者向けアンケート
+
+
+### ご意見・ご感想
+
+
+
+*   時間がもっとあったらなって思ったのですが、シアトルとの時差などを考えると仕方ないのかなーとも思う。みんなで共有することで子供が楽しく本に向き合うことができるので、こういうクラスをやってくれると非常に良いと思います。
+*   お世話になり、ありがとうございました。楽しそうに参加していました。４回すべて参加できてよかったです。今後も楽しい企画を楽しみにしています。
+*   回数を重ねる毎に馴染んできており、できた経験も出来なかった経験も今後の糧となっていくと思っています。日本の公立学校に通う娘にとってインターやアメリカのスクールの疑似体験が出来ました。非常に良い刺激になっています。答えのないオープンクエスチョンに慣れていない日本の子ども達にBookClubのようなクラスは難しいのではと思っていましたが、日本語クラスやMIXクラスでも積極的に意見が交換されていたようですね。コンピュータサイエンスに精通するファシリテーターの方々、翻訳者の鳥井さんに応援してもらって読めるという素晴らしい機会を提供して頂き感謝しています。
+*   プログラミングはやっていたけれど、通信教育だったので、親子で二人三脚止まりでした。今回の企画で、本の著者や、世界とつながっている、そういう実感が持てたことはとても良かったと思います！ありがたい機会でした！
+*   英語と日本語ミックスで一緒に本を読みながら知識を学び広げていく機会をいただきありがたかったです。
+*   Has been very rewarding for our daughter. Seems slightly short, I think the kids could handle more. Would like to participate in similar programs in the future. Has strengthened her interest in computer programming.
