@@ -17,7 +17,7 @@ subtitle: 04/18/2021 Book Club Day 4
 
 ![](/img/2021-04-18/ducky.png)
 
-<iframe width="2544" height="1050" src="https://www.youtube.com/embed/bslLzrdO2B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/bslLzrdO2B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 その後に、スクラッチの[デバッグ問題](https://scratch.mit.edu/projects/515275328)を紹介しました。
 
