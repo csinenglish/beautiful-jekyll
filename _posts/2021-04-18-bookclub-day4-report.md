@@ -169,18 +169,14 @@ Reiko先生から、子どもたちに、これまでのクラスで一番難し
 みんなが集まって、そして、スクラッチの[デバッグ問題](https://scratch.mit.edu/projects/515275328)をみんなで考えました。ちさきちゃんは最初のバク（Change Count by 1　のブロックがつながってない)をみつけて、そのブロックをREPEATブロックにいれました。これはロジックエラーです。
 
 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
+![](/img/2021-04-18/scratch.png)
 
 
 もう一つはバグは非常に難しいです。だれもわかりませんでした。じつは Repeat Until Count = 3 の 3 が全角の文字になっていました。それを半角に直すとやっと花火が３発あがりました。現役のエンジニアでもわかりませんでした。”Do not worry. Nobody is perfect”
 
 今回が最後のクラスなので、最後にファシリテーターからのメッセージをいただきました。
 
-&lt;iframe width="1424" height="507" src="https://www.youtube.com/embed/szRVh7eJBXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+<iframe width="853" height="480"  src="https://www.youtube.com/embed/szRVh7eJBXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
 
 
 ## アンケート結果
