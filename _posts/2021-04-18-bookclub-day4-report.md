@@ -32,7 +32,7 @@ subtitle: 04/18/2021 Book Club Day 4
 
 本を読みはじめました。最初にがバグの種類として、Syntax ErrorとLogic Errorの種類について学びました。そして、デバッグの手順についてまなびました。問題があるときは最初にじぶんで考えて、そしてインターネット、友達、最後に先生に聞くことを本は推奨しました。
 
-また、Nobody is perfectという言葉とともに失敗してもいいことを学びました。 \
+また、Nobody is perfectという言葉とともに失敗してもいいことを学びました。 
 
 
 ShellyはIDEのデモをしました。次のプログラムにはバグがあります。
@@ -93,33 +93,14 @@ Pythonのサンプルコードを使って、printで値を表示させながら
 
 モデレーターは、北米シアトルのAMAZONでプロジェクトマネージャーとして働くReikoさん。
 
+![](/img/2021-04-18/reiko.png)
 
 
 Girls who code の翻訳者、鳥井さん、お子さんといっしょにご参加いただきました。
 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-
 
 以下、レポート
-
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
-
-
-
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
 
 
 今日はデバッグ
@@ -154,12 +135,8 @@ IDE(Integrated Development Environment:統合開発環境) の例として、Rei
 
 Pythonで書かれたtacosのコードをみんなでデバッグ。
 
+![](/img/2021-04-18/reiko-ide.png)
 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
 ループを無限に繰り返す論理エラーがあることを、print命令で確認しながら、不具合を直していく手順を確認していきました。
 
 「不完全さを受け入れる」という節の内容が、この本の中で一番好きなところ（Reiko先生）。翻訳していて一番よかったと感じたところ（鳥井さん）。
