@@ -74,8 +74,6 @@ ShellyはUWのコーヒー問題（学生がたくさんいるのにスターバ
 
 口だけで説明することがいかに難しいかを感じてもらうエクササイズでしたが、ファシリテーターのUtakoさんだけではなく、参加者からの出題にも意外に皆きちんとやっていたのが驚きでした。みんなすごい！
 
- 
-
 今回は第6章のデバッグを読みました。”デバッグ“という言葉が、実は本当に虫（実際にはガ）がマシンに入り込んで問題を起こしたのが始まりだという話から始まります。つまりデバッグはその虫を取り除く、つまり問題を修正するという意味です。プログラミングでは実際にクリエーティブなコードを書いているよりも、この“デバッグ”という作業とテスト作業のほうが圧倒的に多いのが実情です。この日は土曜日でしたが、Utakoさんは休日返上で一日このデバッグ作業をやっていたとのこと。これぞエンジニア！というエピソードでした。本では、自分で問題解決することの重要性を強調していましたが、Utakoさんの“デバッグ休日”も、まさに自分ひとりで間違いを探す作業でした。
 
 そしてこの章のメインポイントであるNobody is perfect（完璧な人などいない）という点。著者のラシュマさんは、特に女の子はきちんとすることを考えすぎるあまりに間違い（つまりバグ）を恐れてしまうということをじっくり読みこんでみんなで考えてみました。
@@ -84,13 +82,7 @@ ShellyはUWのコーヒー問題（学生がたくさんいるのにスターバ
 
 さて最後はＵｔａｋｏさんのＩＤＥ（統合開発環境）を使ってデバッグのデモです！
 
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
+![](/img/2021-04-18/ide-utako.png)
 
 Pythonのサンプルコードを使って、printで値を表示させながらコードのどこが間違っているのかを探っていきます。コードは前回やったランチアルゴリズムをベースに、タコスを売り切ると店が閉まるというもの。ところがいつまでたっても店が閉まりません。
 
@@ -103,14 +95,7 @@ Pythonのサンプルコードを使って、printで値を表示させながら
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
 Girls who code の翻訳者、鳥井さん、お子さんといっしょにご参加いただきました。
-
 
 
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
