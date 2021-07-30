@@ -13,7 +13,9 @@ subtitle: 06/26/2021 Scratch Debug Contest
 [Seesaw](https://web.seesaw.me/)を使って、効率的に採点をしあました。
 
 ![](/img/2021-06-26/title2.jpeg)
+
 ![](/img/2021-06-26/kids.png)
+
 ![](/img/2021-06-26/progress.png)
 
 
