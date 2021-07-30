@@ -7,7 +7,7 @@ subtitle: 06/26/2021 Scratch Debug Contest
 
 [Virutal JapanFair 2021](https://www.japanfairus.org/)で、『Scratch Debug Contest』を開催しました。
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/1wrplS8EIaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="510" src="https://www.youtube.com/embed/IWs77AlXV6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 16名の子供たち、6名のボランティアの採点者に参加をいただきました。
 
