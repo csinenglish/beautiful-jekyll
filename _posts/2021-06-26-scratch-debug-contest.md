@@ -11,13 +11,13 @@ subtitle: 06/26/2021 Scratch Debug Contest
 
 16名の子供たち、6名のボランティアの採点者に参加をいただきました。
 
-[Seesaw](https://web.seesaw.me/)を使って、効率的に採点をしあました。
+[Seesaw](https://web.seesaw.me/)を使って、効率的に採点をしました。
 
 ![](/img/2021-06-26/title2.jpeg)
 
-![](/img/2021-06-26/kids.png)
+![](/img/2021-06-26/kids.jpeg) 
 
-![](/img/2021-06-26/progress.png)
+![](/img/2021-06-26/progress.jpeg)
 
 
 問題は　[Scratch Project](https://scratch.mit.edu/users/CoderDojoDazaifu/projects/) にあります。
