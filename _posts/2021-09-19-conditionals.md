@@ -3,7 +3,7 @@ layout: page
 title: CS in English Event Report - Conditionals
 subtitle: 09/19/2021 Conditionals
 ---
-# 英語で学ぶコンピュータ・サイエンス CS in English season4 第1回 Loop/Loopingを開催！
+# 英語で学ぶコンピュータ・サイエンス CS in English season4 第2回 Conditionalsを開催！
 
 9/19に＜英語で学ぶコンピュータ・サイエンス CS in English season4 第2回 Conditionals / 条件文＞を開催しました！日本全国・世界中から、参加者とスタッフ合わせて120名以上が参加しました✨
 
