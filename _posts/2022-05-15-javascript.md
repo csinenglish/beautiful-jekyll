@@ -41,6 +41,8 @@ subtitle: 5/15/2022 JavaScript
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/9N6Wkm0kl9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+当日使用したJamboardのファイルは[ここ](https://jamboard.google.com/d/1mI9YStz9ldfyT9jARyaULLnc-FEsWjO3odgPnPFawuI/copy)にあります。
+
 ## Breakout room 2
 
 2回目のブレイクアウトルームでは、Greg先生がこの日のために開発してくれたアプリ「GregLab」を使って、JavaScriptの変数と関数の課題にみんながんばって挑戦してくれました💪
