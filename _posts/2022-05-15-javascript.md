@@ -54,9 +54,9 @@ subtitle: 5/15/2022 JavaScript
 <iframe width="600" height="400" src="https://www.youtube.com/embed/ZWkc0R8PDxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 次顔のお知らせ
+## 次回のお知らせ
 
-Season5、次回は7月に「Unit Test / 単体テスト」を開催します。引き続きJavaScriptのテキストコーディングで楽しく学んでいきます！楽しみにしていてくださいね🥰
+Season5、次回は7月１７日（日）午前9時半あから「Unit Test / 単体テスト」を開催します。引き続きJavaScriptのテキストコーディングで楽しく学んでいきます！楽しみにしていてくださいね🥰
 
 ## アンケート
 
