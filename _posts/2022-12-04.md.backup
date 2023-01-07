@@ -1,0 +1,97 @@
+---
+layout: page
+title: CS in English Event Report - Array
+subtitle: 12/04/2022 Array
+---
+
+12月4日（日）、英語で学ぶコンピュータ・サイエンス（CS in English）Season5 第4回「Array －配列－」を開催しました🎉
+
+▼イベント詳細はこちら
+
+[https://kidscodeclub.jp/csinenglish_20221204/](https://kidscodeclub.jp/csinenglish_20221204/?fbclid=IwAR35yO_lqgYpjjyuRXO1Pvdqf_k7iomnR-hn6Uaxd3uEUCmydnaSXUF3YTc) \\
+
+
+日本全国・海外から、参加者とスタッフ合わせて100名以上が参加しました🎉 
+
+![](/img/2022-12-04/map1.png)
+
+![](/img/2022-12-04/map2.png)
+
+![](/img/2022-12-04/map3.png)
+
+## Breakout Room Part 1
+
+まずはブレイクアウトルームで自己紹介からスタート。英語で話す人も、日本語でも、自分の名前や、興味のある本について発表しました。 
+このときに、Google Classroom の入り方、使い方についてもみんなで確認です。
+
+
+![](/img/2022-09-11/googleclassroom.jpg)
+
+## Main Room
+
+Main Session でのお話は、プログラム開発でとても大事な 「Unit Test」についての第2回目です。前回のおさらいから始まり、Test Case についてみんなで考え、例題を Jambord に解いて行きます。
+今回はさらに進んで、プログラムを開発するときの Exception（例外）の考え方・使いかたや、Unit Test でどうやって ”プログラム・バグ” を見つけるかについても、わかりやすく説明してもらいました。
+(Zoomのビデオ画像にも、コスプレの ”Bug” が！ (Tomoさん、ありがとうございます.)
+
+![](/img/2022-09-11/bug.jpg)
+
+
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/LSMUlj6GXB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![](/img/2022-09-11/jamboard.jpg)
+
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/IpTabC1imTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+JamboardにはTAがFEEDBACKを書きました。
+
+![](/img/2022-09-11/miki.jpg)
+
+今回使用したJamboardは[次のところ](https://jamboard.google.com/d/1FRC3PgyBssonUZc0EGGW0Dr0739kEvJ7FcMEhVYWmMk/viewer?f=0)にあります。よく考えてあるJamboardなので、ぜひ取り組んでみてください。 解答は[次のところ](https://jamboard.google.com/d/1QUCUm1oS2HQXm4VnxV1vvP_IEEnR9Q6U4hSG_XwMqqU/edit?usp=sharing)にあります。
+
+## Breakout Room Part 2
+
+
+![](/img/2022-09-11/greglab.jpg)
+
+ペアプログラミングツールの[「GregLab」](http://csinenglish.herokuapp.com/)もさらにバージョンアップ！
+今回教わることのために、実行すると Exception になる Test Case もチェックすることができました。みんなで、「GregLab」に Test Case を書いて、コードを実行することを繰り返します。その中で、「どういうときにExcepiton になるか」、「プログラムを止めないためにどうするか」を体験します。
+また、プログラム開発する時の流れやプログラム・バグの見つけ方についても考えました。
+
+## Kahoot
+
+[Kahoot クイズ](https://kahoot.it/challenge/001236420)も、当日の Session で教わったことからの Question によるおさらいがメイン。ちょっと難しかったかもしれませんが、プレゼントをもらえた人は、おめでとうございます！！
+
+
+[解説](https://docs.google.com/presentation/d/1I
+7yOd8gJotO3lIPM7VCVlxGtfXKv-P2lDKfUn3EGajM/edit?usp=sharing)
+
+![](/img/2022-09-11/kahoot.jpg)
+ 
+## 次回のお知らせ
+
+Season5、次回は12月4日（日）午前9時半から[Array/Loop]を開催します。引き続きJavaScriptのテキストコーディングで楽しく学んでいきます！楽しみにしていてくださいね🥰
+
+## アンケート
+
+アンケートの一部を紹介します
+
+### 子ども
+
+- 問題を解く時、考えるのが楽しかったです。
+- ブレイクアウトルームで先生といっぱい雑談したり、Codeを教えてもらって楽しかったです
+- コードを直すのが楽しかったです。
+- プログラミングを今回初めてやったのですが、とても楽しかったです。
+- 内容が難しい時もあるけど、丁寧に楽しく教えてくれるのでわかりやすいです。
+
+### 保護者
+
+- 前回では理解できなかった「ノーマルケース」「エッジケース」「ポジティブケース」「ネガティブケース」が少し理解できるようになっていました。
+繰り返し行うことで、難しいことも「少しわかる」という自信につながり楽しそうに取り組んでいました。
+- 私から見たらアメリカから！と思いますが、子供にとってはもうきっと普通のことなんだろなと思うと時代の流れを感じます。いつもスタッフさんの英語を聞くたびに　あんな風に話せるようになりたいと言ってます。
+- 単体テストの事など、本人がまだ考えの及ばないところに触れられてよかったです。
+
+
+
